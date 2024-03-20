@@ -1,10 +1,9 @@
-```
 
 
 
 
 ---
-```
+
 
 
 Seguridad Informática
@@ -17,17 +16,8 @@ Grupo: Pérez Pazos - Torres - Pérez - Pérez Formento - Luppino
 
 ---
 
-**Índice: **
 
-
-[TOC]
-
-
-
----
-
-
-# PUNTO A {#punto-a}
+# PUNTO A 
 
 Un **ciberataque** es accionado mediante hackers los cuales insertan un virus dentro de un sistema informático para robar o encriptar los datos para posteriormente pedir un rescate.
 
@@ -61,7 +51,7 @@ La **Seguridad **es un protector ante cualquier amenaza que pueda llegar a perju
 ---
 
 
-# PUNTO B {#punto-b}
+# PUNTO B 
 
 La **ciberdelincuencia**, la gran maldición de Internet, se refiere a cualquier actividad ilegal llevada a cabo mediante el uso de tecnología. Los responsables pueden ser personas aisladas, grupos organizados o facciones con patrocinio estatal, y utilizan técnicas como el phishing, la ingeniería social y el malware de todo tipo para cumplir sus siniestros planes.  [Link](https://www.avast.com/es-es/c-cybercrime)
 
@@ -83,7 +73,7 @@ La **seguridad de la información**, es un conjunto de procedimientos y herramie
 ---
 
 
-# PUNTO C {#punto-c}
+# PUNTO C 
 
 Bibliografía: [Link](https://www.welivesecurity.com/es/otros-temas/tipos-hacker-diferencias/)
 
@@ -107,7 +97,7 @@ TIPOS DE AGRESORES:
 ---
 
 
-# PUNTO D {#punto-d}
+# PUNTO D 
 
 Bibliografía: [Link](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uacj.mx/CGTI/CDTE/JPM/Documents/IIT/Introduccion_TI/3_Modelos_sistemas/datos-vs.-informaci%25C3%25B3n.html&ved=2ahUKEwilref_iPKEAxWFpJUCHVgSDb4QFnoECDQQAQ&usg=AOvVaw3eYfIIYHP32lz4UBCIrxXz)
 
@@ -117,7 +107,7 @@ Datos es un término que se refiere a hechos, eventos, transacciones, etc., que 
 ---
 
 
-# PUNTO E {#punto-e}
+# PUNTO E 
 
 Bibliografía: [Link](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/acceso-la-informacion-publica)
 
@@ -135,7 +125,7 @@ La información privada es aquella que por versar sobre información personal, o
 ---
 
 
-# PUNTO F {#punto-f}
+# PUNTO F 
 
 Un **sistema seguro** es aquel que brinda seguridad, pero no del todo. El término identifica una situación de ausencia o disminución de riesgos para un determinado entorno social y natural [Link](https://www.google.com/amp/s/noticias.perfil.com/noticias/amp/ciencia/inteligencia-artificial-un-argentino-crea-un-sistema-de-seguridad-preventivo.phtml)
 
@@ -169,7 +159,7 @@ Bibliografía: [Link](https://www.proware.com.co/blog/equipos-biometricos-para-c
 ---
 
 
-# PUNTO G {#punto-g}
+# PUNTO G 
 
 i. Una **amenaza** en un sistema informático es cualquier evento o acción que tiene el potencial de causar daño, comprometer la integridad o disponibilidad de los datos, o comprometer la seguridad del sistema en general. Esto puede incluir virus, malware, ataques de hackers, robo de datos, entre otros.
 
@@ -206,14 +196,7 @@ ii.
 * Los incidentes que precedieron las amenazas, tales como un comunicado de prensa de la organización.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-
-
-# BIBLIOGRAFÍA: {#bibliografía}
+# BIBLIOGRAFÍA:
 
 PUNTO B.
 
