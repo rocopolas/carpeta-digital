@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <style>
     @font-face{
         font-family: inconsolata;
@@ -15,8 +14,8 @@
     }
 
     body {
-        margin: 0 auto;
         max-width: 700px;
+        margin: 0 auto;
         text-align: center;
     }
 
@@ -55,7 +54,6 @@
         background-color: #001e40;
         border-color: #001e40;
     }
-
 </style>
 
 <html>
@@ -66,15 +64,22 @@
     </header>
     <main></main>
     <body>
-        <h1>Trabajos</h1>
-        <h2>Hardware</h2>
-        <ul>
-            <li><a href="/carpeta-digital/blogHTML/hardware1.html">Trabajo práctico nº1: Instalaciones eléctricas</a></li>
-        </ul>
-        <h2>Seguridad Digital</h2>
-        <ul>
-            <li><a href="/carpeta-digital/blogHTML/pedaci1.html">Trabajo práctico nº1: Instalaciones eléctricas</a></li>
-        </ul>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+        <script>
+            const d = document,
+             $main = d.querySelector("main");
+            
+            fetch("/carpeta-digital/blog/pedaci1.md")
+             .then(res => res.ok ? res.text(): Promise.reject(res))
+             .then(text =>{
+                console.log(text)
+                $main.innerHTML = new showdown.Converter().makeHtml(text)
+             })
+             .catch(err =>{
+                console.error(err);
+             })
+    
+        </script>
     </body>
 
 </html>
