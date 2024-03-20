@@ -69,7 +69,7 @@
             const d = document,
              $main = d.querySelector("main");
             
-            fetch("/blog/d.md")
+            fetch("/carpeta-digital/blog/d.md")
              .then(res => res.ok ? res.text(): Promise.reject(res))
              .then(text =>{
                 console.log(text)
