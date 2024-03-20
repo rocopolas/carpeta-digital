@@ -19,11 +19,6 @@
         margin: 0 auto;
         text-align: center;
     }
-    @media (min-width: 600px) {
-        body {
-            max-width: auto;
-        }
-    }
 
     /* https://paletadecolores.online/azul/ */
     header{
@@ -60,6 +55,24 @@
         background-color: #001e40;
         border-color: #001e40;
     }
+
+    @media only screen and (max-width: 600px) {
+            header h1 {
+                font-size: 24px;
+            }
+
+            .boton-inicio {
+                font-size: 14px;
+            }
+
+            h1 {
+                font-size: 20px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+        }
 
 </style>
 
