@@ -79,7 +79,7 @@
                 const d = document,
                 $main = d.querySelector("main");
 
-                var enlace = document.querySelector('a');
+                var enlace = document.querySelector(id);
                 var hrefValor = enlace.getAttribute('href');
                 console.log(`/carpeta-digital/blog/${hrefValor}.md`)
                 fetch(`/carpeta-digital/blog/${hrefValor}.md`)
