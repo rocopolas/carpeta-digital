@@ -75,7 +75,7 @@
 
 
 
-            function borrarDiv(id){
+            function borrarDiv(){
                 var lol = document.getElementById("borrar");
                 lol.parentNode.removeChild(lol);
 
@@ -97,17 +97,22 @@
                 })
             }
 
+            function borrarDiv2() {
+                var hash = window.location.hash;
+                borrarDiv();
+            }
+
         </script>
         <div id="borrar">
             <h1>Trabajos</h1>
             <h2>Hardware</h2>
             <ul>
-                <li><a  onclick="borrarDiv()" href="#hardware1">Trabajo práctico nº1: Instalaciones eléctricas</a></li>
+                <li><a  onclick="borrarDiv2()" href="#hardware1">Trabajo práctico nº1: Instalaciones eléctricas</a></li>
             </ul>
             <h2>Seguridad Digital</h2>
             <ul>
-                <li><a  onclick="borrarDiv()" href="#pedaci1">Introducción y Diagnóstico</a></li>
-                <li><a  onclick="borrarDiv()" href="#pedaci2">Seguridad Física (Parte 01)</a></li>
+                <li><a  onclick="borrarDiv2()" href="#pedaci1">Introducción y Diagnóstico</a></li>
+                <li><a  onclick="borrarDiv2()" href="#pedaci2">Seguridad Física (Parte 01)</a></li>
             </ul>
         </div>
     </body>
