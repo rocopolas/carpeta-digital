@@ -74,14 +74,6 @@
     <main></main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
     <script>
-
-        const urlPar = new URLSearchParams(window.location.search);
-        
-        if (urlPar.has("trabajo"){
-            const trabajoid = urlPar.get("trabajo");
-            agregarblog(trabajoid);
-        }
-        
         function agregarblog(id){
             var divABorrar = document.getElementById("borrar");
             divABorrar.parentNode.removeChild(divABorrar);
@@ -100,11 +92,14 @@
             })
                     
         }       
-
+    </script>
+    <script>
+        const urlPar = new URLSearchParams(window.location.search);
         
-        
-        
-        
+        if (urlPar.has("trabajo")){
+            const trabajoid = urlPar.get("trabajo");
+            agregarblog(trabajoid);
+        }
     </script>
     <body>
         <div id="borrar">
