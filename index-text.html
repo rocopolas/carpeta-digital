@@ -84,7 +84,6 @@
             fetch(`/carpeta-digital/blog/${id}`)
             .then(res => res.ok ? res.text(): Promise.reject(res))
             .then(text =>{
-                console.log(text)
                 $main.innerHTML = new showdown.Converter().makeHtml(text)
             })
             .catch(err =>{
@@ -98,6 +97,7 @@
         
         if (urlPar.has("trabajo")){
             const trabajoid = urlPar.get("trabajo");
+            console.log(trabajoid);
             agregarblog(trabajoid);
         }
     </script>
