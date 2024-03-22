@@ -99,8 +99,8 @@
                     var codigo = text.substring(de+3, hasta -2);
                     
                     var iframe = document.createElement('iframe');
-                    div.src = codigo;
-                    document.body.appendChild(div);
+                    iframe.src = codigo;
+                    document.body.appendChild(iframe);
                 }
             })
             .catch(err =>{
