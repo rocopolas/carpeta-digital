@@ -9,6 +9,14 @@
         src: url(/carpeta-digital/assets/Inconsolata.ttf)
     }
 
+    @media screen and (max-width: 600px){
+        h1,h2,h3,h4,p{
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+    }
+        
+
     h1,h2,h3,h4 {
         font-family: inconsolata;
     }
@@ -74,7 +82,6 @@
     <main></main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
     <script>
-
         function agregarblog(id){
             var divABorrar = document.getElementById("borrar");
             divABorrar.parentNode.removeChild(divABorrar);
@@ -85,28 +92,48 @@
             fetch(`/carpeta-digital/blog/${id}`)
             .then(res => res.ok ? res.text(): Promise.reject(res))
             .then(text =>{
-                console.log(text)
                 $main.innerHTML = new showdown.Converter().makeHtml(text)
+                if(id.indexOf("Whale", 0);){
+                    
+                }
             })
             .catch(err =>{
                 console.error(err);
             })
-                    
-        }        
+
+            
+        }       
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlPar = new URLSearchParams(window.location.search);
+            console.log(urlPar)
+            if (urlPar.has("trabajo")){
+                const trabajoid = urlPar.get("trabajo");
+                console.log(trabajoid);
+                agregarblog(trabajoid);
+        }
+        });       
+     
     </script>
     <body>
         <div id="borrar">
             <h1>Trabajos</h1>
             <h2>Hardware</h2>
             <ul>
-                <li><a id = "d.md" onclick="agregarblog(this.id)"" href="#">Trabajo práctico nº1: Instalaciones eléctricas</a></li>
+                <li><a id = "d.md" onclick="agregarblog(this.id)" href="?trabajo=d.md">Trabajo práctico nº1: Instalaciones eléctricas</a></li>
             </ul>
             <h2>Seguridad Digital</h2>
             <ul>
-                <li><a id = "pedaci1.md" onclick="agregarblog(this.id)" href="#">Introducción y Diagnóstico</a></li>
-                <li><a id = "pedaci2.md" onclick="agregarblog(this.id)" href="#">Seguridad Física (Parte 01)</a></li>
+                <li><a id = "pedaci1.md" onclick="agregarblog(this.id)" href="?trabajo=pedaci1.md">Introducción y Diagnóstico</a></li>
+                <li><a id = "pedaci2.md" onclick="agregarblog(this.id)" href="?trabajo=pedaci2.md">Seguridad Física (Parte 01)</a></li>
+            </ul>
+            <h2>Aplicaciones</h2>
+            <ul>
+                <li><a id = "vivani1.md" onclick="agregarblog(this.id)" href="?trabajo=vivani1.md">Actividad 1</a></li>
             </ul>
         </div>
+        <p id = "urlcopiar"></p>
     </body>
 
 </html>
