@@ -89,7 +89,8 @@
             .catch(err =>{
                 console.error(err);
             })
-                    
+            var urlActual = window.location.href;
+            document.getElementById("urlActual").innerText = urlActual;
         }       
     </script>
     <script>
@@ -117,6 +118,7 @@
                 <li><a id = "pedaci2.md" onclick="agregarblog(this.id)" href="?trabajo=pedaci2.md">Seguridad Física (Parte 01)</a></li>
             </ul>
         </div>
+        <p id = "urlcopiar"></p>
     </body>
 
 </html>
