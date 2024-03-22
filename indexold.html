@@ -97,7 +97,7 @@
                     const de = text.indexOf("```");
                     const hasta = text.lastIndexOf("```");
                     var codigo = text.substring(de+3, hasta -2);
-                    document.write(codigo)
+                    document.body.write(codigo)
                         
                 }
             })
@@ -137,7 +137,6 @@
                 <li><a id = "vivani1.md" onclick="agregarblog(this.id)" href="?trabajo=vivani1.md">Actividad 1</a></li>
             </ul>
         </div>
-        <p id = "urlcopiar"></p>
     </body>
 
 </html>
