@@ -96,7 +96,7 @@
                 if(text.indexOf("```") != -1){
                     const de = text.indexOf("```");
                     const hasta = text.lastIndexOf("```");
-                    var codigo = originalString.substring(de+3, hasta -2);
+                    var codigo = text.substring(de+3, hasta -2);
                     document.write(codigo)
                         
                 }
