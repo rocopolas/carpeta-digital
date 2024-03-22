@@ -99,7 +99,7 @@
                     var codigo = text.substring(de+3, hasta -2);
                     
                     var iframe = document.createElement('iframe');
-                    iframe.src = codigo;
+                    iframe.document = codigo;
                     document.body.appendChild(iframe);
                 }
             })
