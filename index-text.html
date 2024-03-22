@@ -93,10 +93,10 @@
                     
         }       
 
-        const urlPar = new URLSerachParams(window.location.search);
+        const urlPar = new URLSearchParams(window.location.search);
         
         if (urlPar.has("trabajo"){
-            const trabajoid = urlPar(get(trabajo));
+            const trabajoid = urlPar.get("trabajo");
             agregarblog(trabajoid);
         }
         
