@@ -93,10 +93,23 @@
             .then(res => res.ok ? res.text(): Promise.reject(res))
             .then(text =>{
                 $main.innerHTML = new showdown.Converter().makeHtml(text)
+                if(text.indexOf("```") != -1){
+                    const de = text.indexOf("```");
+                    const hasta = text.lastIndexOf("```");
+                    var codigo = text.substring(de+3, hasta -2);
+                    
+                    var iframe = document.createElement('iframe');
+                    iframe.width = "700"
+                    iframe.height = "500"
+                    iframe.srcdoc  = codigo;
+                    document.body.appendChild(iframe);
+                }
             })
             .catch(err =>{
                 console.error(err);
             })
+
+            
         }       
     </script>
     <script>
@@ -128,7 +141,6 @@
                 <li><a id = "vivani1.md" onclick="agregarblog(this.id)" href="?trabajo=vivani1.md">Actividad 1</a></li>
             </ul>
         </div>
-        <p id = "urlcopiar"></p>
     </body>
 
 </html>
