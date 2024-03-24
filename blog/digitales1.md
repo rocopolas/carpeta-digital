@@ -7,12 +7,11 @@
 
  
 
-|                  | TTL                                                                                        | CMOS                                                          |
-|------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| ¿Que es?         | Transistores bipolares                                                                     | Efecto de campo                                               |
-| Características  | La velocidad de transmisión entre los estados lógicos es su mejor base                     | En estado de reposo, la pérdida de potencia es de solo 10 nW. |
-|                  | Las señales de salida TTL se degradan rápidamente                                          | 5 a 15 V                                                      |
-|                  | Su tensión de alimentación característica se halla comprendida entre los 4,75v y los 5,25V |                                                               |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| **col 3 is**  | right-aligned | $1600 |
+| col 2 is      | *centered*    |   $12 |
+| zebra stripes | ~~are neat~~  |    $1 |
 
 
 ## De transistor a procesador
