@@ -55,13 +55,13 @@ Se convierte mediante una fuente de poder la cual sigue varios procesos: Transfo
 
 ## 4. 
 
-__Habitacion rocco:__ Grosor de cable un poco mas gordo de lo normal ya que el consumo de esta habitacion engloba: Aire acondicionado, computadora exigente, ventiladores, estufa.
+__Habitacion rocco:__ Grosor de cable un poco mas gordo de lo normal ya que el consumo de esta habitacion engloba: Aire acondicionado, computadora exigente, ventiladores, estufa. (2,5 mm)
 
-__Habitacion padres:__ Grosor normal, el consumo es menos exigente, por ende precisa cables de gordura convencionales, es decir, no hace falta cables MUY gordos...
+__Habitacion padres:__ Grosor normal, el consumo es menos exigente, por ende precisa cables de gordura convencionales, es decir, no hace falta cables MUY gordos... (2 mm)
 
-__Living room:__ Estos cables deberan ser GORDOS, ya que en esta habitacion se junta el entretenimiento y confort de la television, un aire acodnicionado, ventiladores y el funcionamiento de una cocina electrica, altamente demandante...
+__Living room:__ Estos cables deberan ser GORDOS, ya que en esta habitacion se junta el entretenimiento y confort de la television, un aire acodnicionado, ventiladores y el funcionamiento de una cocina electrica, altamente demandante... (2,5 mm)
 
-__Baño__: no se nececitan cables tan gordos, mas que para prender la luz y conectar aveces un secador de pelo..
+__Baño__: no se nececitan cables tan gordos, mas que para prender la luz y conectar aveces un secador de pelo.. (2 mm)
 
 ## 5. 
 
