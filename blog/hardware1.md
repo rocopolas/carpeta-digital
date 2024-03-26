@@ -45,9 +45,9 @@ Rocco Pérez y Pérez Formento
 
 ## 2. 
 
-- __Resistecia:__ Es la tendencia de resistir el flujo de carga (corriente) de un material.
-- __Corriente:__ Es la tasa con la que fluye la carga (Cantidad)
-- __Tension:__  La fuerza de corriente eléctrica se conoce como potencial eléctrico y se expresa en voltios (V)
+- **Resistecia:** Es la tendencia de resistir el flujo de carga (corriente) de un material.
+- **Corriente:** Es la tasa con la que fluye la carga (Cantidad)
+- **Tension:**  La fuerza de corriente eléctrica se conoce como potencial eléctrico y se expresa en voltios (V)
 
 ## 3. 
 
@@ -69,8 +69,8 @@ Toda casa debe tener un diyuntor para asegurar el bienestar y seguridad de las p
 
 ## 6. 
 
-- __Disyuntor:__ Se acciona si existe una corriente de fuga y podría tratarse de una persona electrocutándose.
-- __Termica:__ Buscan proteger la instalación eléctrica y acciona si circula más corriente que la del calibre de la misma (evita un incendio, por ejemplo)
+- **Disyuntor:** Se acciona si existe una corriente de fuga y podría tratarse de una persona electrocutándose.
+- **Termica:** Buscan proteger la instalación eléctrica y acciona si circula más corriente que la del calibre de la misma (evita un incendio, por ejemplo)
 - 
 __Tipo B:__ El accionamiento magnético se produce para una corriente de 3 a 5 veces In (ideal cuando no hay arranque de motores o bobinados).
  
