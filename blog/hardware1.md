@@ -71,7 +71,7 @@ Toda casa debe tener un diyuntor para asegurar el bienestar y seguridad de las p
 
 - **Disyuntor:** Se acciona si existe una corriente de fuga y podría tratarse de una persona electrocutándose.
 - **Termica:** Buscan proteger la instalación eléctrica y acciona si circula más corriente que la del calibre de la misma (evita un incendio, por ejemplo)
-- 
+
 __Tipo B:__ El accionamiento magnético se produce para una corriente de 3 a 5 veces In (ideal cuando no hay arranque de motores o bobinados).
  
 __Tipo C:__ El accionamiento magnético se produce para una corriente de 5 a 10 veces In (la más usada en hogar e industria).
