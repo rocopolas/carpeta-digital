@@ -78,7 +78,7 @@ __Tipo C:__ El accionamiento magnético se produce para una corriente de 5 a 10 
 
 ## 7.
 
-nose asdasjdasj
+El umbral de corriente es de 2 y 3 A. A partir de esta intencidad sobreviene la parada respiratoria, inconsciencia,aparecen marcas visibles. mas de 3A muerte.
 
 ## 8.
 
@@ -106,4 +106,7 @@ La distancia desde el suelo, debe ser de 20 a 30 cm aproximadamente para los enc
 
 ## 12. 
 
-nose
+El costo de una instalacion electrica puede costar entre 100.000 a 250.000 pesos, depende si es una instalacion monofásica, bifásica o trifásica.
+Electro instalador: hasta 10 kW 128.400 pesos. De 36 a 50 kW 243.000 pesos. (trifásica)
+Empresa 1: 150.000 pesos (bifasica)
+Empresa 2: 256.000 (trifasica)
