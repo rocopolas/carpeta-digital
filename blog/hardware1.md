@@ -94,7 +94,7 @@ nose
 
 - __Fase:__ Negro, rojo o azul oscuro
 
-![Colores de los cables tabla](/carpeta-digital/assets/colores_cables.png)
+![Colores de los cables tabla](/carpeta-digital/assets/colores_cables.webp)
 
 ## 10.
 
