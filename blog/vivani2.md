@@ -35,6 +35,7 @@ Rocco Perez
         }
     </style>
     <body id="cuerpo">
+        <marquee>Perez y Perez Formento</marquee>
         <h1>hola</h1>
         <img alt="frivani" src="https://www.leagueoflegends.com/static/logo-1200-04b3cefafba917c9c571f9244fd28a1e.png">
         <br>
