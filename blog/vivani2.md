@@ -33,6 +33,9 @@ Rocco Perez
         button {
             margin-left: 45%;
         }
+        marquee {
+            color: white;
+        }
     </style>
     <body id="cuerpo">
         <marquee>Perez y Perez Formento</marquee>
