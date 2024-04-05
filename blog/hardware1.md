@@ -41,7 +41,7 @@ Rocco Pérez y Pérez Formento
 
 ## 1. 
 
-![el plano de la casa de chouna](/carpeta-digital/assets/casachouna.jpg)
+![el plano de la casa de chouna](/carpeta-digital/assets/img/casachouna.jpg)
 
 ## 2. 
 
@@ -94,7 +94,7 @@ nose
 
 - __Fase:__ Negro, rojo o azul oscuro
 
-![Colores de los cables tabla](/carpeta-digital/assets/colores_cables.webp)
+![Colores de los cables tabla](/carpeta-digital/assets/img/colores_cables.webp)
 
 ## 10.
 
