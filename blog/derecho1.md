@@ -17,6 +17,8 @@ Realiza una breve síntesis escrita señalando el tema, nudo y desenlace.
 
 ### B.
 
+El texto destaca la relevancia del periodismo y la preocupación por la violencia de género hacia las mujeres con presencia pública. Esto se relaciona con el concepto de Derecho Natural, que defiende la dignidad humana, y el Derecho Positivo, que establece normas para proteger a las personas. El propósito del Derecho es regular la convivencia social y promover el orden, mientras que los derechos subjetivos incluyen la libertad de expresión. En resumen, se resalta la importancia de proteger a los profesionales del periodismo y combatir la violencia de género, en consonancia con los principios del derecho y la promoción de una sociedad justa y democrática.
+
 Elabora una conclusión, en relación al artículo y relaciona los conceptos vistos en la materia, (Derecho Natural, Positivo, Objetivo, Subjetivo, Normas, Objeto de derecho) teniendo en cuenta que el Derecho es el conjunto de normas que imponen deberes y normas que confieren facultades, estableciendo las bases de convivencia social y cuyo fin es el orden.
 
 ### C.
