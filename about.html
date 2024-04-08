@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <link rel="icon" type="image/x-icon" href="/carpeta-digital/assets/ico.ico">
-<head><title>Sobre esto</title></head>
+<head><title>Inicio</title></head>
+ 
 
 <style>
     @font-face{
@@ -13,29 +14,39 @@
             margin-left: 10px;
             margin-right: 10px;
         }
-    }
-    
 
-    h1,h2,h3,h4 {
+        img {
+            height: auto;
+            width: 100%;
+        }
+
+    }
+        
+
+    .normal h1,
+    .normal h2,
+    .normal h3,
+    .normal h4 {
         font-family: inconsolata;
     }
-
-    p,a {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue'
+    
+    .normal p,
+    .normal a,
+    .normal li {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
     }
-
+    
     body {
         margin: 0 auto;
         max-width: 700px;
-        text-align: left;
+        text-align: left; 
     }
 
     /* https://paletadecolores.online/azul/ */
     header{
-        top: 0px;
         width: auto;
         height: 100px;
-        background-color: #003785; 
+        background-color: #003785;
         text-align: center;
     }
 
@@ -67,6 +78,61 @@
         border-color: #001e40;
     }
 
+    .boton-inicio-noche {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-decoration: none;
+        color: #2196f3;
+        background-color: #56070c;
+        border: 2px solid #56070c;
+        border-radius: 5px;
+        transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    }
+
+    .boton-inicio-noche:hover {
+        background-color: #170000;
+        border-color: #350a06;
+    }
+
+    .boton-inicio-noche:active {
+        background-color: #000000;
+        border-color: #000000;
+    }
+
+    .bodyNoche {
+        background-color: #170000;
+    }
+
+    .bodyNoche p,
+    .bodyNoche a,
+    .bodyNoche li {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+        color: #8f3d38;
+    }
+
+    .bodyNoche h1,
+    .bodyNoche h2,
+    .bodyNoche h3,
+    .bodyNoche h4 {
+        font-family: inconsolata;
+        color: #cb7169;
+    }
+
+    .headerNoche {
+        background-color: #350a06;
+    }
+
+    .headerNoche h1{
+        color: #8f3d38;
+        margin-top: 0%;
+        font-family: inconsolata;
+    }
+
+    .asd {
+        color:black;
+    }
+
     .foto {
         display: flex;
     }
@@ -75,19 +141,71 @@
         width: 50%;
     }
 
+
 </style>
 
 <html lang="es">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <header>
-        <h1>Carpeta digital</h1>
-        <a href="/carpeta-digital/index.html" class="boton-inicio">Inicio</a>
-        <a href="/carpeta-digital/about.html" class="boton-inicio">Sobre esto</a>
-     </header>
+
     <main></main>
-    <body>
+    <script>
+        b=0;
+        function cambiarModo(){
+            var estiloActual = localStorage.getItem("estilo");
+            if (estiloActual === "dia") {
+                localStorage.setItem("estilo", "noche");
+            } else {
+                localStorage.setItem("estilo", "dia");
+            }
+            aplicarEstilo();
+        }
+        function aplicarEstilo(){
+            var estiloActual = localStorage.getItem("estilo");
+            if (estiloActual === "dia") {
+                var $cuerpo = document.getElementById("cuerpo");
+                $cuerpo.className = "normal"
+
+                var $header = document.getElementById("enca");
+                $header.className = "normal"
+
+                var $boton = document.getElementById("bot");
+                var $boton1 = document.getElementById("bot1");
+                var $boton2 = document.getElementById("bot2");
+                $boton.className = "boton-inicio" 
+                $boton1.className = "boton-inicio"
+                $boton2.className = "boton-inicio"
+            } else {
+                var $cuerpo = document.getElementById("cuerpo");
+                $cuerpo.className = "bodyNoche"
+
+                var $header = document.getElementById("enca");
+                $header.className = "headerNoche" 
+
+                var $boton = document.getElementById("bot");
+                var $boton1 = document.getElementById("bot1");
+                var $boton2 = document.getElementById("bot2");
+                $boton.className = "boton-inicio-noche" 
+                $boton1.className = "boton-inicio-noche"
+                $boton2.className = "boton-inicio-noche"
+            }
+        }  
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            aplicarEstilo();
+        });       
+    </script>
+    
+
+    <header id="enca">
+        <h1>Carpeta digital</h1>
+        <a href="/carpeta-digital/index.html" id="bot" class="boton-inicio">Inicio</a>
+        <a href="/carpeta-digital/about.html" id="bot1" class="boton-inicio">Sobre esto</a>
+        <a href="#" onclick="cambiarModo()" id="bot2" class="boton-inicio">Cambiar modo</a>    
+    </header>
+    <main></main>
+    <body id="cuerpo" class="normal">
         <h1>¿Quien soy?</h1>
         <div class="foto">
         <p> Soy Rocco Pérez, estudiante de Leonardo Murialdo, Curso 6to año en informatica
@@ -97,5 +215,4 @@
         <h1>¿Que es esto?</h1>
         <p>Es un proyecto de carpeta digital hecho en HTML con CSS y javascript por mi!</p>
     </body>
-
 </html>
