@@ -41,7 +41,7 @@ Rocco Pérez y Pérez Formento
 
 ## 1. 
 
-![el plano de la casa de chouna](/carpeta-digital/assets/img/casachouna.jpg)
+![el plano de la casa de chouna](/carpeta-digital/assets/img/casachouna.webp)
 
 ## 2. 
 
