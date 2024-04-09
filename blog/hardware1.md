@@ -43,6 +43,11 @@ Rocco Pérez y Pérez Formento
 
 ![el plano de la casa de chouna](/carpeta-digital/assets/img/casachouna.webp)
 
+**Amarillo:** Enchufe.
+**Naranja:** Luces.	
+**Gris:** Teclas de luz.
+**Azul:** Termica y disyuntor.
+
 ## 2. 
 
 - **Resistecia:** Es la tendencia de resistir el flujo de carga (corriente) de un material.
