@@ -3,7 +3,7 @@
 
 Info A
 
-# Hardware
+# Instalación eléctrica de una casa
 
 Rocco Pérez y Pérez Formento
 
@@ -109,7 +109,43 @@ La distancia desde el suelo, debe ser de 20 a 30 cm aproximadamente para los enc
 
 ## 12. 
 
-El costo de una instalacion electrica puede costar entre 100.000 a 250.000 pesos, depende si es una instalacion monofásica, bifásica o trifásica.
-Electro instalador: hasta 10 kW 128.400 pesos. De 36 a 50 kW 243.000 pesos. (trifásica)
-Empresa 1: 150.000 pesos (bifasica)
-Empresa 2: 256.000 (trifasica)
+### Componentes
+
+#### Interruptor : ™ límit 2x25A x 6 U
+
+Precio: 37.694$
+
+![límit 2x25A](/carpeta-digital/assets/img/hardware1/cosaselectricas(10).jpg)
+
+#### Conductor : Cable Unipolar Trefilcon 100 Metros 2,5mm. SICA
+
+Precio: 66.891$
+
+![Cable](/carpeta-digital/assets/img/hardware1/cosaselectricas(2).jpg)
+
+#### Canaletas: Cable Canal Autoadhesivo Taad 20x10 X 10 Mts
+
+Precio : 4.555$
+
+![Canaletas](/carpeta-digital/assets/img/hardware1/cosaselectricas(8).jpg)
+
+#### Tomacorriente: Life Arm. Toma doble BP x 15 U
+
+Precio : 30.224$
+
+![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(9).jpg)
+
+#### Tecla: Life Arm 2P BP x 15U
+
+Precio: 21.840$
+
+![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(11).jpg)
+
+#### Llave-interruptor Termica Bipolar
+#### Disyuntor Diferencial 
+
+Precio: $7.999, $20.213
+
+![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(5).jpg)
+
+![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(1).jpg)
