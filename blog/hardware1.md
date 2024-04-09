@@ -87,7 +87,7 @@ El umbral de corriente es de 2 y 3 A. A partir de esta intencidad sobreviene la 
 
 ## 8.
 
-La diferencia es que el tablero general es la seguridad, en este caso, de toda la casa. En cambio, la térmica y el disyuntor pertenecen a un ámbito más específico dividiéndolas por habitación, por luminaria o por consumo. 
+La diferencia es que el tablero general es la seguridad, en este caso, de toda la casa. En cambio, la térmica y el disyuntor pertenecen a un ámbito más específico dividiéndolas por habitación, por luminaria o por consumo.  
 
 ## 9.
 
