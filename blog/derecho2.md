@@ -15,19 +15,19 @@ El objeto del derecho es regular las relaciones entre individuos y/o entidades d
 
 # 2.
 
-## Análisis de una ley:
+## Ley Nacional de Medio Ambiente Nº 25.675:
 
-- a. La ley se aplica en la jurisdicción nacional.
-   
-- b. La autoridad competente que sancionó la ley es el Congreso Nacional.
-   
-- c. La materia que trata la ley es la protección del medio ambiente.
-   
-- d. La ley tiene fecha de comienzo de aplicación, pero no tiene fecha de expiración.
-   
-- e. Se publicó en el boletín oficial el 15 de marzo de 2024.
-   
-- f. Mi conclusión personal es que la aplicación de esta ley es crucial para preservar el medio ambiente y garantizar un futuro sostenible para nuestra sociedad.
+- a. Se aplica en la jurisdicción nacional de Argentina.
+
+- b. Fue sancionada por el Congreso Nacional de Argentina.
+
+- c. Trata sobre la preservación y protección del medio ambiente, la conservación de los recursos naturales y la prevención de la contaminación.
+
+- d. No tiene una fecha de expiración, pero su aplicación comenzó desde su promulgación.
+
+- e. Fue publicada en el Boletín Oficial el 2 de diciembre de 2002.
+
+- f. Esta ley es esencial para el país, ya que establece las bases para la protección del medio ambiente, garantizando el derecho de todos los ciudadanos a un ambiente sano, equilibrado y apto para el desarrollo humano. Su aplicación es crucial para enfrentar los desafíos ambientales y promover un desarrollo sostenible en Argentina.
 
 # 3. 
 
