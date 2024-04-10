@@ -47,6 +47,8 @@ Se llama a la reflexión y a la acción para detener esta violencia de género, 
 
 ## B.
 
+El texto destaca la relevancia del periodismo y la preocupación por la violencia de género hacia las mujeres con presencia pública. Esto se relaciona con el concepto de Derecho Natural, que defiende la dignidad humana, y el Derecho Positivo, que establece normas para proteger a las personas. El propósito del Derecho es regular la convivencia social y promover el orden, mientras que los derechos subjetivos incluyen la libertad de expresión. En resumen, se resalta la importancia de proteger a los profesionales del periodismo y combatir la violencia de género, en consonancia con los principios del derecho y la promoción de una sociedad justa y democrática.
+
 ## C.
 
 1. **UNICEF** (Fondo de las Naciones Unidas para la Infancia): Se centra en la protección y el bienestar de los niños en todo el mundo, trabajando en áreas como la salud, la educación, la protección infantil y la igualdad de género.
