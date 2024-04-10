@@ -46,3 +46,7 @@ Situaciones donde se manifiesta el Derecho en la vida cotidiana:
 - b. Al ser testigo de un accidente de tráfico y llamar a la policía, se manifiesta el derecho penal, que regula el comportamiento de las personas en la sociedad y establece las consecuencias legales por acciones delictivas.
    
 - c. Al participar en una reunión laboral y negociar condiciones de trabajo con mi empleador, se manifiesta el derecho laboral, que regula las relaciones entre empleadores y empleados y establece derechos y obligaciones laborales.
+
+## Bibliografía 
+
+- [Ley 25.675](https://www.argentina.gob.ar/normativa/nacional/ley-25675-79980/texto)
