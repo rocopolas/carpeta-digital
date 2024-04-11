@@ -9,6 +9,6 @@ Rocco Perez
 
 ## Ejercicios:
 
-- [Ejercicio 1](https://rocopolas.github.io/carpeta-digital/?trabajo=vivani3.md)
-- [Ejercicio 2]()
-- [Ejercicio 3]()
+- [Ejercicio 1](https://rocopolas.github.io/carpeta-digital/?trabajo=vivani_ejer/ej1.md)
+- [Ejercicio 2](https://rocopolas.github.io/carpeta-digital/?trabajo=vivani_ejer/ej2.md)
+- [Ejercicio 3](https://rocopolas.github.io/carpeta-digital/?trabajo=vivani_ejer/ej3.md)
