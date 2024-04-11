@@ -10,7 +10,7 @@ Rocco Perez
 ## Codigo
 
 ```
-<HTML bgcolor="white">
+<html bgcolor="white">
     <style>
         h1 {color: olive;}
         h2 {color:purple}
@@ -23,7 +23,7 @@ Rocco Perez
         <h1>encabezado1</h1>
         <h2>encabezado2</h2>
     </body>
-</HTML>
+</html>
 ```
 
 ## Como se ve
