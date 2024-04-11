@@ -1,7 +1,7 @@
 
 ---
 
-# Actividad 2
+# Actividad 3
 
 Rocco Perez
 
@@ -10,7 +10,7 @@ Rocco Perez
 ## Codigo
 
 ```
-<HTML>
+<HTML bgcolor="white">
     <style>
         h1 {color: olive;}
         h2 {color:purple}
