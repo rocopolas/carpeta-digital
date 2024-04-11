@@ -1,7 +1,7 @@
 
 ---
 
-# Actividad 2
+# Actividad 3
 
 Rocco Perez
 
@@ -12,6 +12,7 @@ Rocco Perez
 ```
 <html>
     <style>
+        body{background-color: white;}
         .azul {color:blue}
         .amarillo {color:yellow}
         .violeta {color:violet}
