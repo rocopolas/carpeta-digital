@@ -10,8 +10,9 @@ Rocco Perez
 ## Codigo
 
 ```
-<html bgcolor="white">
+<html>
     <style>
+        body{background-color: white;}
         h1 {color: olive;}
         h2 {color:purple}
 
