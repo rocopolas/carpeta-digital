@@ -105,8 +105,12 @@
         color: #8f3d38;
     }
 
-    code {
+    .bodyNoche code {
         color: white;
+    }
+
+    .normal  code {
+        color: black;
     }
 
     .bodyNoche h1,
