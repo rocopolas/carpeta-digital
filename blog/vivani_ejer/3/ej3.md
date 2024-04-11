@@ -1,7 +1,7 @@
 
 ---
 
-# Actividad 2
+# Actividad 3
 
 Rocco Perez
 
@@ -11,7 +11,7 @@ Rocco Perez
 
 ```
 <html>
-    <body>
+    <body bgcolor="white">
         <marquee>Rocco Perez y I. P. Formento</marquee>
         <p style="color: brown;">1</p>
         <p style="color: #ff00ff">2</p>
