@@ -127,7 +127,7 @@ int main(void) {
 }
 ```
 
-[Descargar archivo .c](/carpeta-digital/blog/programacion/act1.c)
+[Descargar archivo .c](/carpeta-digital/assets/programacion/act1.c)
 
 
 
