@@ -14,3 +14,5 @@ Grupo: Pérez - Pérez Formento
 ![Cuadro conceptual](/carpeta-digital/assets/img/cuadroconceptualfep.jpg)
 
 ## 2.
+
+Está perfecto es una celebración importante para los cristianos y está bueno que se festeje!!!
