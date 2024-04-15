@@ -11,6 +11,6 @@ Grupo: Pérez - Pérez Formento
 
 ## 1.
 
-[Cuadro conceptual](/carpeta-digital/assets/img/cuadroconceptualfep.jpg)
+![Cuadro conceptual](/carpeta-digital/assets/img/cuadroconceptualfep.jpg)
 
 ## 2.
