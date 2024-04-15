@@ -131,6 +131,15 @@
         color: #cb7169;
     }
 
+    .bodyNoche hr{
+        ‎border-color: #350a06;
+    }
+
+    .normal hr{
+            ‎border-color: #ffffff;
+        }
+
+
     .headerNoche {
         background-color: #350a06;
     }
