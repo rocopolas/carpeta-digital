@@ -38,8 +38,8 @@ El conjunto de elementos físicos y lógicos que se encargan de recibir, guardar
 
 ### Se compone de:
 
-Usuario(maneja según sus necesidades
-) -> Aplicacion(programas que realizan tareas) -> Sistema Operativo(el encargado de gestionar los recursos del hardware) -> Hardware (cpu)
+**Usuario** (maneja según sus necesidades
+) -> **Aplicacion** (programas que realizan tareas) -> **Sistema Operativo** (el encargado de gestionar los recursos del hardware) -> **Hardware** (cpu)
 
 ## Análisis de riesgos
 
