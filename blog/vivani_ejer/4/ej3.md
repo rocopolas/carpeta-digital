@@ -12,6 +12,7 @@ Rocco Perez
 ```
 <!DOCTYPE html>
 <html>
+    <style>body{background-color: white;}</style>
     <body>
         <marquee behavior="alternate" direction="right" width="250" height="20">va para la derecha y rebota</marquee>
         <marquee behavior="alternate" direction="left" width="250" height="20">va para la izquierda y rebota</marquee>
