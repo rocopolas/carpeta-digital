@@ -35,6 +35,12 @@ int loop(int notas[], int cantidad){
 	printf("Queres ir a: ");
 	int desicion;
 	scanf("%d",&desicion);
+	
+	if(desicion != 1 && desicion != 2 && desicion != 3 && desicion != 4 && desicion != 5 && desicion != 6){
+		printf("\nError de tipeo, elige una de las opciones que se marcaron arriba...\n");
+		loop(notas, cantidad);
+	}
+	
 	if(desicion == 1){
 		devolver(notas,cantidad);
 	}
@@ -92,7 +98,7 @@ int loop(int notas[], int cantidad){
 			suma = suma + notas[i];
 		}
 		promedio = suma / cantidad;
-		printf("\nPromedio de todas las notas: %d\n", promedio);
+		printf("Promedio de todas las notas: %d", promedio);
 	}
 	
 	if(desicion == 6){
@@ -100,14 +106,10 @@ int loop(int notas[], int cantidad){
 		main();
 	}
 	
-	if(desicion != 1 && desicion != 2 && desicion != 3 && desicion != 4 && desicion != 5 && desicion != 6){
-		printf("\nError de tipeo, elige una de las opciones que se marcaron arriba...\n");
-		loop(notas, cantidad);
-	}
 }
 	
 int main(void) {
-
+	
 	int cantidad;
 	printf("Ingresar cantidad de notas del alumno: ");
 	scanf("%d", &cantidad);
@@ -119,9 +121,7 @@ int main(void) {
 		scanf("%d",&notas[i]);
 	}
 
-	int a = 1;
-	while (a==1){loop(notas, cantidad);}
-	
+	while (1){loop(notas, cantidad);}
 	
 	return 0;
 }
