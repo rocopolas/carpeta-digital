@@ -9,7 +9,7 @@ Rocco Pérez y Pérez Formento
 
 ---
 
-## Gama baja-media
+# Gama baja-media
 
 ## Intel
 
