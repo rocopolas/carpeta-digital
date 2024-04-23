@@ -264,7 +264,7 @@ Chipset: Intel® Z790 Chipset
 **Ram**
 
 - 4 x DIMM, Max. 128GB, DDR4 DDR4
-- 5333(OC)/5133(OC)/5066(OC)/5000(OC)/4800(OC)/4700(OC)/4600(OC)/4500(OC)/4400(OC)/4266(OC)/4133(OC)/4000(OC)/3866(OC)/3733(OC)/3600(OC)/3466(OC)/3400(OC)/3333(OC)/3200/3000/2933/2800/2666/2400/2133
+- 5333(OC)/5133(OC)/5066(OC)/5000(OC)/4800(OC)/4700(OC) etc..
 - Non-ECC, Un-buffered Memory*
 - Dual Channel Memory Architecture
 - Supports Intel® Extreme Memory Profile (XMP)
