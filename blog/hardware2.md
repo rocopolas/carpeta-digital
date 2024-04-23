@@ -121,6 +121,17 @@ Tipo de refrigeracion es por aire, ya que otro tipo seria mucho mas costoso y no
 
 Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tamaño con los componentes elegidos y aparte viene con un combo epico de altavoces y teclado mouse que me vuelven loco. 
 
+## Total
+
+- H110M-HDV R3.0: [93.778](https://www.mercadolibre.com.ar/placa-madre-asrock-a520m-hdv-color-negro/p/MLA24527962?pdp_filters=category:MLA1648#searchVariation=MLA24527962&position=2&search_layout=stack&type=product&tracking_id=2c6dd0d9-7ebf-4b6f-a0ab-73b4297952da)
+- Intel Celeron G4900: [60.314](https://www.mercadolibre.com.ar/procesador-gamer-intel-celeron-g4900-bx80684g4900-de-2-nucleos-y-31ghz-de-frecuencia-con-grafica-integrada/p/MLA9472080?pdp_filters=category:MLA3794#searchVariation=MLA9472080&position=2&search_layout=grid&type=product&tracking_id=e15b9549-669d-4852-b184-d18995b85e71)
+- Memoria Ram Markvision: [17.000](https://www.mercadolibre.com.ar/memoria-ram-markvision-4gb-dddr4-2400mhz-mvd44096mld-24/p/MLA21277305?pdp_filters=category:MLA1694#searchVariation=MLA21277305&position=18&search_layout=grid&type=product&tracking_id=6520a820-f996-4488-bfb9-2209d0c9794f)
+- SkyHawk disco: [73.000](https://www.mercadolibre.com.ar/disco-duro-interno-seagate-skyhawk-surveillance-st1000vx005-1tb-plateado/p/MLA27820257?pdp_filters=category:MLA1672#searchVariation=MLA27820257&position=7&search_layout=stack&type=product&tracking_id=3488e0e5-8546-4c64-9c01-f51258588ac5)
+- Aluna Al-p500: [37.000](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
+- Gabinete Overtech Ov-k190: [45.000](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
+
+Total: **$325.000**
+
 # AMD
 
 ## 2. 
@@ -228,6 +239,15 @@ Tipo de refrigeracion es por aire, ya que otro tipo seria mucho mas costoso y no
 [Gabinete Pc Kit Overtech Ov-k190](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
 
 Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tamaño con los componentes elegidos y aparte viene con un combo epico de altavoces y teclado mouse que me vuelven loco. 
+
+## Total
+
+- AMD A520: [95.000](https://www.mercadolibre.com.ar/motherboard-asus-prime-a520m-k-amd-ryzen-3ra-gen-gamer-m2/p/MLA22623615?pdp_filters=category:MLA1692#searchVariation=MLA22623615&position=1&search_layout=grid&type=product&tracking_id=d030a70e-16ad-47d6-8b76-af79f966db88)
+- AMD Athlon 3000G 3.5GHz + Radeon Vega 3 AM4: [72.000](https://www.mercadolibre.com.ar/procesador-amd-athlon-3000g-yd3000c6fhbox-de-2-nucleos-y-35ghz-de-frecuencia-con-grafica-integrada/p/MLA15285294?pdp_filters=category:MLA1648#searchVariation=MLA15285294&position=1&search_layout=stack&type=product&tracking_id=7b822901-d8a1-49e9-b92f-a604e5e6c14c)
+- Memoria Ram Markvision: [17.000](https://www.mercadolibre.com.ar/memoria-ram-markvision-4gb-dddr4-2400mhz-mvd44096mld-24/p/MLA21277305?pdp_filters=category:MLA1694#searchVariation=MLA21277305&position=18&search_layout=grid&type=product&tracking_id=6520a820-f996-4488-bfb9-2209d0c9794f)
+- SkyHawk disco: [73.000](https://www.mercadolibre.com.ar/disco-duro-interno-seagate-skyhawk-surveillance-st1000vx005-1tb-plateado/p/MLA27820257?pdp_filters=category:MLA1672#searchVariation=MLA27820257&position=7&search_layout=stack&type=product&tracking_id=3488e0e5-8546-4c64-9c01-f51258588ac5)
+- Aluna Al-p500: [37.000](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
+- Gabinete Overtech Ov-k190: [45.000](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
 
 # Gama alta
 
