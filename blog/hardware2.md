@@ -184,22 +184,47 @@ Chipset: AMD A520
 
 ## 4.
 
+[Link](https://www.mercadolibre.com.ar/memoria-ram-markvision-4gb-dddr4-2400mhz-mvd44096mld-24/p/MLA21277305?pdp_filters=category:MLA1694#searchVariation=MLA21277305&position=18&search_layout=grid&type=product&tracking_id=6520a820-f996-4488-bfb9-2209d0c9794f)
 
+- Marca: Markvision 
+- Capacidad: 4gb 
+- Tecnologia: Dddr4 
+- Velocidad: 2400mhz 
+- Modelo: K4GBD4-2400
+- Clocks: 16-18-18-38
+
+Dos de estas rams conectadas en dual chanel
 
 ## 5.
 
+[**SkyHawk**](https://www.seagate.com/la/es/products/video-analytics/skyhawk-hard-drive/)
 
+- N.º de modelo: ST1000VX013
+- Almacenamiento: 1Tb
+- Velocidad: 6.0 Gb/s (SATA3)
 
 ## 6.
 
-
-
 ## 7.
 
+[**Aluna Al-p500**](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
+
+- Marca: Aluna
+- Modelo: Al-P500 (ATX)
+- Potencia: 500w
+- Voltaje: 110V/220V
+- Conectores SATA: 3
+- Conector 24 Pines: 1
+- Conector 4 Pines: 1
+- Conectores Molex: 2
 
 
-## 8.
+### 8. 
 
+Tipo de refrigeracion es por aire, ya que otro tipo seria mucho mas costoso y no es necesario para este caso.
 
+### 9.
 
-## 9
+[Gabinete Pc Kit Overtech Ov-k190](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
+
+Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tamaño con los componentes elegidos y aparte viene con un combo epico de altavoces y teclado mouse que me vuelven loco. 
