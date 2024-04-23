@@ -249,6 +249,8 @@ Elegido por su costo bajo y por su dise√±o. Es compatible en cuestiones de tama√
 - Aluna Al-p500: [37.000](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
 - Gabinete Overtech Ov-k190: [45.000](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
 
+Total: **$339.000**
+
 # Gama alta
 
 # Intel
