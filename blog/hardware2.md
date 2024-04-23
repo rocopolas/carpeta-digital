@@ -309,7 +309,7 @@ Tipos de memoria:
 - Modelo: CN 210039639 U
 - Clocks: 16-18-18-38
 
-![todas las cosas](carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
+![todas las cosas](\carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
 
 ### 5.
 
@@ -415,7 +415,7 @@ BIOS: the award-winning ASUS UEFI BIOS.
 - Modelo: CN 210039639 U
 - Clocks: 16-18-18-38
 
-![todas las cosas](carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
+![todas las cosas](\carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
 
 ### 5.
 
