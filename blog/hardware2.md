@@ -123,7 +123,7 @@ Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tama�
 
 ## AMD
 
-## 2. 
+### 2. 
 
 [**AMD A520**](https://www.gigabyte.com/es/Motherboard/A520M-K-V2-rev-10#kf)
 
@@ -168,7 +168,7 @@ Chipset: AMD A520
 - 1 x RJ-45 port
 - 3 x audio jacks
 
-## 3.
+### 3.
 
 [**Procesador AMD Athlon 3000G 3.5GHz + Radeon Vega 3 AM4**](https://www.mercadolibre.com.ar/procesador-amd-athlon-3000g-yd3000c6fhbox-de-2-nucleos-y-35ghz-de-frecuencia-con-grafica-integrada/p/MLA15285294?pdp_filters=category:MLA1648#searchVariation=MLA15285294&position=1&search_layout=stack&type=product&tracking_id=d0c17e9e-8e0b-48ec-8d19-41d808e9098c)
 
@@ -182,7 +182,7 @@ Chipset: AMD A520
 - Caché: 4 MB
 - APU: si
 
-## 4.
+### 4.
 
 [Link](https://www.mercadolibre.com.ar/memoria-ram-markvision-4gb-dddr4-2400mhz-mvd44096mld-24/p/MLA21277305?pdp_filters=category:MLA1694#searchVariation=MLA21277305&position=18&search_layout=grid&type=product&tracking_id=6520a820-f996-4488-bfb9-2209d0c9794f)
 
@@ -195,7 +195,7 @@ Chipset: AMD A520
 
 Dos de estas rams conectadas en dual chanel
 
-## 5.
+### 5.
 
 [**SkyHawk**](https://www.seagate.com/la/es/products/video-analytics/skyhawk-hard-drive/)
 
@@ -203,9 +203,9 @@ Dos de estas rams conectadas en dual chanel
 - Almacenamiento: 1Tb
 - Velocidad: 6.0 Gb/s (SATA3)
 
-## 6.
+### 6.
 
-## 7.
+### 7.
 
 [**Aluna Al-p500**](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
 
