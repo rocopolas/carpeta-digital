@@ -354,3 +354,123 @@ Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 - Fabricante: ASUS
 - Modelo: GeForce RTX 3050
 - vRAM: 8GB GDDR6
+
+### Total
+
+- 1 X Procesador Intel Core i5 14600K 5.3GHz Turbo Socket 1700 Raptor Lake
+- 1 X Mother ASUS ROG STRIX Z790-A GAMING WIFI LGA1700 DDR4
+- 1 X Cooler CPU Corsair iCUE H100x ELITE 240 Water Cooler
+- 2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM ARGB Mirror White CL18
+- 1 X Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC
+- 1 X Disco Solido SSD M.2 WD 480GB Green SN350 2400MB/s NVME PCI-Express x4
+- 1 X Disco Rigido WD 2TB BLUE 256MB SATA 6.0GB/s
+- 1 X Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular 850G
+- 1 X Gabinete Kolink Inspire X1 Vidrio Templado 1x120mm ARGB
+
+Total: [**$ 2.379.570**](https://compragamer.com.ar/armatupc?paso=11&tipo=49&cpu=15251&mother=14861&mem=14998,14998&video=13649&hd=12056,9557&fuente=11489&gab=11411&ccpu=15288)
+
+## AMD
+
+### 2.
+
+**Conexiones**
+
+- 2 x USB 2.0 + 2 x USB 3.2 Gen 1
+- 2 x USB 3.2 Gen 2 (1 x Type-A + 1 x USB Type-C®)
+- 2 x Front USB 3.2 Gen 1
+- 2.5Gb Etherent
+- 2 x USB 3.2 Gen 1
+- 1 x DisplayPort
+- 2 x PCIe 4.0/3.0 X16 slots
+- PCIe 4.0 x4 & SATA mode
+- 6 x SATA 6Gb/s
+
+32Gb/s M.2 support && 64Gb/s M.2 support
+PCIe 3.0 x4 & SATA mode
+DDR4 support
+**AMD B550 Chipset**
+BIOS: the award-winning ASUS UEFI BIOS.
+
+### 3.
+
+[**AMD Ryzen 7 5800X3D**](https://versus.com/es/amd-ryzen-7-5800x3d)
+
+- Velocidad de la CPU base: 3.4 GHz
+- Velocidad de la CPU max: 4.5 GHz
+- Velocidad de la RAM (máx.): 3200 MHz
+- Hilos de la CPU: 16 threads
+- Nucleos: 8
+- Caché L2: 4 MB
+- Versión PCI Express (PCIe): 4
+- TDP: 105W
+- Zocalo: AM4
+
+### 4.
+
+**2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM**
+- Marca: ASUS
+- Capacidad: 32GB (en dos RAM de 16GB) 
+- Tecnologia: Dddr4 
+- Velocidad: 4000mhz 
+- Modelo: CN 210039639 U
+- Clocks: 16-18-18-38
+
+![todas las cosas](carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
+
+### 5.
+
+**Disco Solido SSD M.2 WD 480GB Green SN350 7000MB/s NVME PCI-Express x4**
+
+- Marca: WD
+- Capacidad: 480GB
+- Tecnologia: NVME
+- Velocidad: 7000MB/s
+- Modelo: WD4800AAWS
+
+**Disco Rigido WD 2TB BLUE 256MB SATA**
+
+- Marca: WD
+- Capacidad: 2TB
+- Tecnologia: SATA
+- Velocidad: 500MB/s
+- Modelo: WD2003FZEX
+
+### 6.
+
+### 7.
+
+**Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular 850G**
+
+- Marca: ASUS
+- Potencia: 850W
+- Modelo: ROG STRIX 850W 80 Plus Gold Full Modular 850G
+- Conectores: modulares
+
+### 8.
+
+Refrigeracion liquida ya que el procesador es de gama alta y la placa de video es de gama alta, esto indica que el calor es mas alto que en una placa de video de gama baja.. Asi que se necesita una refrigeracion liquida.
+
+Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
+
+### 9.
+
+**Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC**
+
+- Marca: Nvidia
+- Fabricante: ASUS
+- Modelo: GeForce RTX 3050
+- vRAM: 8GB GDDR6
+
+### Total
+
+- 1 X Procesador AMD Ryzen 7 5800X3D 4.5GHz Turbo - AM4
+- 1 X Mother ASUS TUF GAMING B550-PLUS WIFI II AM4
+- 1 X Cooler CPU DeepCool AK400 ZERO DARK PLUS
+- 2 X Memoria Team DDR4 32GB (2x16GB) 3600MHz T-Force XTREEM ARGB Mirror White CL18
+- 1 X Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC
+- 1 X Disco Rigido WD 2TB BLUE 256MB SATA 6.0GB/s
+- 1 X Disco Solido SSD M.2 WD 240GB Green SN350 2400MB/s NVMe PCI-Express x4
+- 1 X Fuente ASUS ROG STRIX 750W 80 Plus Gold Full Modular 750G
+- 1 X Gabinete Kolink Inspire X1 Vidrio Templado 1x120mm ARGB
+
+Total: [**$ 1.915.300**](https://compragamer.com.ar/armatupc?tipo=26&cpu=13388&paso=11&mother=13209&ccpu=15096&mem=15001,15001&video=13649&hd=9557,12055&fuente=11061&gab=11411)
