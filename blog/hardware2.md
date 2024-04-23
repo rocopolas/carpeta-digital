@@ -9,11 +9,11 @@ Rocco Pérez y Pérez Formento
 
 ---
 
+## Gama baja-media
+
 ## Intel
 
-dale
-
-### 2.
+## 2.
 
 [**H110M-HDV R3.0**](https://www.asrock.com/mb/Intel/H110M-HDV%20R3.0/)
 
@@ -60,7 +60,7 @@ dale
 - 1 x RJ-45 LAN Port with LED (ACT/LINK LED and SPEED LED)
 - HD Audio Jacks: Line in / Front Speaker / Microphone
 
-### 3.
+## 3.
 
 **Procesador Intel Celeron G4900 3.10GHz Socket 1151 OEM Coffe Lake**
 
@@ -73,7 +73,7 @@ dale
 - Overcloking: no (no recomendable)
 - OEM: si
 
-### 4.
+## 4.
 
 [Link](https://www.mercadolibre.com.ar/memoria-ram-markvision-4gb-dddr4-2400mhz-mvd44096mld-24/p/MLA21277305?pdp_filters=category:MLA1694#searchVariation=MLA21277305&position=18&search_layout=grid&type=product&tracking_id=6520a820-f996-4488-bfb9-2209d0c9794f)
 
@@ -86,7 +86,7 @@ dale
 
 Dos de estas rams conectadas en dual chanel
 
-### 5.
+## 5.
 
 [**SkyHawk**](https://www.seagate.com/la/es/products/video-analytics/skyhawk-hard-drive/)
 
@@ -94,11 +94,11 @@ Dos de estas rams conectadas en dual chanel
 - Almacenamiento: 1Tb
 - Velocidad: 6.0 Gb/s (SATA3)
 
-### 6.
+## 6.
 
 ?
 
-### 7.
+## 7.
 
 [**Aluna Al-p500**](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
 
@@ -111,19 +111,19 @@ Dos de estas rams conectadas en dual chanel
 - Conector 4 Pines: 1
 - Conectores Molex: 2
 
-### 8. 
+## 8. 
 
 Tipo de refrigeracion es por aire, ya que otro tipo seria mucho mas costoso y no es necesario para este caso.
 
-### 9.
+## 9.
 
 [Gabinete Pc Kit Overtech Ov-k190](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
 
 Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tamaño con los componentes elegidos y aparte viene con un combo epico de altavoces y teclado mouse que me vuelven loco. 
 
-## AMD
+# AMD
 
-### 2. 
+## 2. 
 
 [**AMD A520**](https://www.gigabyte.com/es/Motherboard/A520M-K-V2-rev-10#kf)
 
@@ -168,7 +168,7 @@ Chipset: AMD A520
 - 1 x RJ-45 port
 - 3 x audio jacks
 
-### 3.
+## 3.
 
 [**Procesador AMD Athlon 3000G 3.5GHz + Radeon Vega 3 AM4**](https://www.mercadolibre.com.ar/procesador-amd-athlon-3000g-yd3000c6fhbox-de-2-nucleos-y-35ghz-de-frecuencia-con-grafica-integrada/p/MLA15285294?pdp_filters=category:MLA1648#searchVariation=MLA15285294&position=1&search_layout=stack&type=product&tracking_id=d0c17e9e-8e0b-48ec-8d19-41d808e9098c)
 
@@ -182,7 +182,7 @@ Chipset: AMD A520
 - Caché: 4 MB
 - APU: si
 
-### 4.
+## 4.
 
 [Link](https://www.mercadolibre.com.ar/memoria-ram-markvision-4gb-dddr4-2400mhz-mvd44096mld-24/p/MLA21277305?pdp_filters=category:MLA1694#searchVariation=MLA21277305&position=18&search_layout=grid&type=product&tracking_id=6520a820-f996-4488-bfb9-2209d0c9794f)
 
@@ -195,7 +195,7 @@ Chipset: AMD A520
 
 Dos de estas rams conectadas en dual chanel
 
-### 5.
+## 5.
 
 [**SkyHawk**](https://www.seagate.com/la/es/products/video-analytics/skyhawk-hard-drive/)
 
@@ -203,9 +203,9 @@ Dos de estas rams conectadas en dual chanel
 - Almacenamiento: 1Tb
 - Velocidad: 6.0 Gb/s (SATA3)
 
-### 6.
+## 6.
 
-### 7.
+## 7.
 
 [**Aluna Al-p500**](https://articulo.mercadolibre.com.ar/MLA-1181152156-fuente-de-poder-para-pc-atx-aluna-al-p500-500watts-24p-sata-_JM?searchVariation=175383267925#searchVariation=175383267925&position=6&search_layout=grid&type=item&tracking_id=5bef0054-2008-4e1f-987c-c03a360dffef)
 
@@ -219,21 +219,21 @@ Dos de estas rams conectadas en dual chanel
 - Conectores Molex: 2
 
 
-### 8. 
+## 8. 
 
 Tipo de refrigeracion es por aire, ya que otro tipo seria mucho mas costoso y no es necesario para este caso.
 
-### 9.
+## 9.
 
 [Gabinete Pc Kit Overtech Ov-k190](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
 
 Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tamaño con los componentes elegidos y aparte viene con un combo epico de altavoces y teclado mouse que me vuelven loco. 
 
-## Gama alta
+# Gama alta
 
-## Intel
+# Intel
 
-### 2.
+## 2.
 
 [ROG STRIX Z790-A GAMING WIFI D4](https://rog.asus.com/latin/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-d4-model/spec/)
 
@@ -278,7 +278,7 @@ OptiMem III
 - 1 x BIOS FlashBack™  button 
 - 1 x Clear CMOS button
 
-### 3.
+## 3.
 
 - Cantidad de núcleos: 14
 - Cantidad de Performance-cores: 6
@@ -299,7 +299,7 @@ Tipos de memoria:
 - Cantidad máxima de canales de memoria: 2
 - Máximo de ancho de banda de memoria: 89.6 GB/s
 
-### 4.
+## 4.
 
 **2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM**
 - Marca: ASUS
@@ -311,7 +311,7 @@ Tipos de memoria:
 
 ![todas las cosas](\carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
 
-### 5.
+## 5.
 
 **Disco Solido SSD M.2 WD 480GB Green SN350 7000MB/s NVME PCI-Express x4**
 
@@ -329,9 +329,9 @@ Tipos de memoria:
 - Velocidad: 500MB/s
 - Modelo: WD2003FZEX
 
-### 6.
+## 6.
 
-### 7.
+## 7.
 
 **Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular 850G**
 
@@ -340,13 +340,13 @@ Tipos de memoria:
 - Modelo: ROG STRIX 850W 80 Plus Gold Full Modular 850G
 - Conectores: modulares
 
-### 8.
+## 8.
 
 Refrigeracion liquida ya que el procesador es de gama alta y la placa de video es de gama alta, esto indica que el calor es mas alto que en una placa de video de gama baja.. Asi que se necesita una refrigeracion liquida.
 
 Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 
-### 9.
+## 9.
 
 **Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC**
 
@@ -355,7 +355,7 @@ Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 - Modelo: GeForce RTX 3050
 - vRAM: 8GB GDDR6
 
-### Total
+## Total
 
 - 1 X Procesador Intel Core i5 14600K 5.3GHz Turbo Socket 1700 Raptor Lake
 - 1 X Mother ASUS ROG STRIX Z790-A GAMING WIFI LGA1700 DDR4
@@ -369,9 +369,9 @@ Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 
 Total: [**$ 2.379.570**](https://compragamer.com.ar/armatupc?paso=11&tipo=49&cpu=15251&mother=14861&mem=14998,14998&video=13649&hd=12056,9557&fuente=11489&gab=11411&ccpu=15288)
 
-## AMD
+# AMD
 
-### 2.
+## 2.
 
 **Conexiones**
 
@@ -391,7 +391,7 @@ DDR4 support
 **AMD B550 Chipset**
 BIOS: the award-winning ASUS UEFI BIOS.
 
-### 3.
+## 3.
 
 [**AMD Ryzen 7 5800X3D**](https://versus.com/es/amd-ryzen-7-5800x3d)
 
@@ -405,7 +405,7 @@ BIOS: the award-winning ASUS UEFI BIOS.
 - TDP: 105W
 - Zocalo: AM4
 
-### 4.
+## 4.
 
 **2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM**
 - Marca: ASUS
@@ -417,7 +417,7 @@ BIOS: the award-winning ASUS UEFI BIOS.
 
 ![todas las cosas](\carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
 
-### 5.
+## 5.
 
 **Disco Solido SSD M.2 WD 480GB Green SN350 7000MB/s NVME PCI-Express x4**
 
@@ -435,9 +435,9 @@ BIOS: the award-winning ASUS UEFI BIOS.
 - Velocidad: 500MB/s
 - Modelo: WD2003FZEX
 
-### 6.
+## 6.
 
-### 7.
+## 7.
 
 **Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular 850G**
 
@@ -446,13 +446,13 @@ BIOS: the award-winning ASUS UEFI BIOS.
 - Modelo: ROG STRIX 850W 80 Plus Gold Full Modular 850G
 - Conectores: modulares
 
-### 8.
+## 8.
 
 Refrigeracion liquida ya que el procesador es de gama alta y la placa de video es de gama alta, esto indica que el calor es mas alto que en una placa de video de gama baja.. Asi que se necesita una refrigeracion liquida.
 
 Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 
-### 9.
+## 9.
 
 **Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC**
 
@@ -461,7 +461,7 @@ Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 - Modelo: GeForce RTX 3050
 - vRAM: 8GB GDDR6
 
-### Total
+## Total
 
 - 1 X Procesador AMD Ryzen 7 5800X3D 4.5GHz Turbo - AM4
 - 1 X Mother ASUS TUF GAMING B550-PLUS WIFI II AM4
