@@ -228,3 +228,129 @@ Tipo de refrigeracion es por aire, ya que otro tipo seria mucho mas costoso y no
 [Gabinete Pc Kit Overtech Ov-k190](https://www.mercadolibre.com.ar/gabinete-pc-kit-overtech-ov-k190-negro-con-fuente-ok-6500-pc/p/MLA27473252?pdp_filters=category:MLA4286#searchVariation=MLA27473252&position=7&search_layout=grid&type=product&tracking_id=f2c1ec3e-f963-4c9b-8854-250c30ba221a)
 
 Elegido por su costo bajo y por su diseño. Es compatible en cuestiones de tamaño con los componentes elegidos y aparte viene con un combo epico de altavoces y teclado mouse que me vuelven loco. 
+
+## Gama alta
+
+## Intel
+
+### 2.
+
+[ROG STRIX Z790-A GAMING WIFI D4](https://rog.asus.com/latin/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-d4-model/spec/)
+
+Chipset: Intel® Z790 Chipset
+
+**Ram**
+
+- 4 x DIMM, Max. 128GB, DDR4 DDR4
+- 5333(OC)/5133(OC)/5066(OC)/5000(OC)/4800(OC)/4700(OC)/4600(OC)/4500(OC)/4400(OC)/4266(OC)/4133(OC)/4000(OC)/3866(OC)/3733(OC)/3600(OC)/3466(OC)/3400(OC)/3333(OC)/3200/3000/2933/2800/2666/2400/2133
+- Non-ECC, Un-buffered Memory*
+- Dual Channel Memory Architecture
+- Supports Intel® Extreme Memory Profile (XMP)
+OptiMem III
+
+**Bios**
+
+256 Mb Flash ROM, UEFI AMI BIOS
+
+**Conectores**
+
+- 1 x PCIe 5.0 x16 slot
+- 1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
+- 3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C®)
+- 4 x USB 3.2 Gen 1 ports (4 x Type-A)
+- 2 x USB 2.0 ports (2 x Type-A)
+- 1 x USB 3.2 Gen 2x2 connector (supports USB Type-C® with up to 30W PD) 
+- 1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports
+- 2 x USB 2.0 headers supports 4 additional USB 2.0 ports
+- 1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
+- 3 x USB 3.2 Gen 2 ports (2 x Type-A, 1 x USB Type-C®)
+- 4 x USB 3.2 Gen 1 ports (4 x Type-A)
+- 2 x USB 2.0 ports (2 x Type-A) 
+- 1 x DisplayPort
+- 1 x HDMI® port
+- 1 x Wi-Fi Module
+- 1 x Intel® 2.5Gb Ethernet port
+- 5 x Audio jacks 
+- 1 x Optical S/PDIF out port
+
+**Bios**
+
+- 1 x BIOS FlashBack™  button 
+- 1 x Clear CMOS button
+
+### 3.
+
+- Cantidad de núcleos: 14
+- Cantidad de Performance-cores: 6
+- Cantidad de Efficient-cores: 8
+- Total de subprocesos: 20
+- Frecuencia turbo máxima :5.3 GHz
+- Caché: 24 MB Intel® Smart Cache
+- Caché L2 total: 20 MB
+- Potencia base del procesador: 125 W
+- Solucion termica: PCG 2020A
+
+Tamaño de memoria máximo (depende del tipo de memoria): 192 GB
+Tipos de memoria:
+
+- Up to DDR5 5600 MT/s
+- Up to DDR4 3200 MT/s
+
+- Cantidad máxima de canales de memoria: 2
+- Máximo de ancho de banda de memoria: 89.6 GB/s
+
+### 4.
+
+**2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM**
+- Marca: ASUS
+- Capacidad: 32GB (en dos RAM de 16GB) 
+- Tecnologia: Dddr4 
+- Velocidad: 4000mhz 
+- Modelo: CN 210039639 U
+- Clocks: 16-18-18-38
+
+![todas las cosas](carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
+
+### 5.
+
+**Disco Solido SSD M.2 WD 480GB Green SN350 7000MB/s NVME PCI-Express x4**
+
+- Marca: WD
+- Capacidad: 480GB
+- Tecnologia: NVME
+- Velocidad: 7000MB/s
+- Modelo: WD4800AAWS
+
+**Disco Rigido WD 2TB BLUE 256MB SATA**
+
+- Marca: WD
+- Capacidad: 2TB
+- Tecnologia: SATA
+- Velocidad: 500MB/s
+- Modelo: WD2003FZEX
+
+### 6.
+
+### 7.
+
+**Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular 850G**
+
+- Marca: ASUS
+- Potencia: 850W
+- Modelo: ROG STRIX 850W 80 Plus Gold Full Modular 850G
+- Conectores: modulares
+
+### 8.
+
+Refrigeracion liquida ya que el procesador es de gama alta y la placa de video es de gama alta, esto indica que el calor es mas alto que en una placa de video de gama baja.. Asi que se necesita una refrigeracion liquida.
+
+Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
+
+### 9.
+
+**Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC**
+
+- Marca: Nvidia
+- Fabricante: ASUS
+- Modelo: GeForce RTX 3050
+- vRAM: 8GB GDDR6
