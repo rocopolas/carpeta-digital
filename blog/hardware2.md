@@ -302,6 +302,8 @@ OptiMem III
 
 ## 3.
 
+Intel Core i5 14600K 5.3GHz
+
 - Cantidad de núcleos: 14
 - Cantidad de Performance-cores: 6
 - Cantidad de Efficient-cores: 8
