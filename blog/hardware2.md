@@ -257,48 +257,52 @@ Total: **$339.000**
 
 ## 2.
 
-[ROG STRIX Z790-A GAMING WIFI D4](https://rog.asus.com/latin/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-d4-model/spec/)
 
-Chipset: Intel® Z790 Chipset
+¡
+**TUF GAMING Z790-PLUS WIFI D4**
 
-**Ram**
+Chipset: Intel® Z790 
 
-- 4 x DIMM, Max. 128GB, DDR4 DDR4
-- 5333(OC)/5133(OC)/5066(OC)/5000(OC)/4800(OC)/4700(OC) etc..
-- Non-ECC, Un-buffered Memory*
+**Memory**
+
+- 4 x DIMM, Max. 128GB, DDR5 
 - Dual Channel Memory Architecture
 - Supports Intel® Extreme Memory Profile (XMP)
-OptiMem III
+- OptiMem II
 
-**Bios**
+**Graphics**
 
-256 Mb Flash ROM, UEFI AMI BIOS
+1 x DisplayPort
+1 x HDMI® port
 
-**Conectores**
+**Conexiones**
 
-- 1 x PCIe 5.0 x16 slot
-- 1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
-- 3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C®)
-- 4 x USB 3.2 Gen 1 ports (4 x Type-A)
-- 2 x USB 2.0 ports (2 x Type-A)
-- 1 x USB 3.2 Gen 2x2 connector (supports USB Type-C® with up to 30W PD) 
-- 1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports
-- 2 x USB 2.0 headers supports 4 additional USB 2.0 ports
-- 1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
-- 3 x USB 3.2 Gen 2 ports (2 x Type-A, 1 x USB Type-C®)
-- 4 x USB 3.2 Gen 1 ports (4 x Type-A)
-- 2 x USB 2.0 ports (2 x Type-A) 
-- 1 x DisplayPort
-- 1 x HDMI® port
-- 1 x Wi-Fi Module
-- 1 x Intel® 2.5Gb Ethernet port
-- 5 x Audio jacks 
-- 1 x Optical S/PDIF out port
+1 x PCIe 4.0 x16 slot (supports x4 mode)
+1 x PCIe 4.0 x4 slot
+2 x PCIe 3.0 x1 slots
+1 x Intel® 2.5Gb Ethernet
 
-**Bios**
+Rear USB (Total 8 ports)
+1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
+3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C®)
+4 x USB 3.2 Gen 1 ports (4 x Type-A)
+Front USB (Total 7 ports)
+1 x USB 3.2 Gen 2 connector (supports USB Type-C®)
+1 x USB 3.2 Gen 1 header supports 2 additional USB 3.2 Gen 1 ports
+2 x USB 2.0 headers support additional 4 USB 2.0 ports
 
-- 1 x BIOS FlashBack™  button 
-- 1 x Clear CMOS button
+
+1 x USB 3.2 Gen 2x2 port (1 x USB Type-C®)
+3 x USB 3.2 Gen 2 ports (2 x Type-A + 1 x USB Type-C®)
+4 x USB 3.2 Gen 1 ports (4 x Type-A)
+1 x DisplayPort
+1 x HDMI® port
+1 x Wi-Fi Module
+1 x Intel® 2.5Gb Ethernet port
+5 x Audio jacks
+1 x Optical S/PDIF out port
+
+**BIOS:** 192 (128+64) Mb Flash ROM, UEFI AMI BIOS
 
 ## 3.
 
@@ -325,15 +329,12 @@ Tipos de memoria:
 
 ## 4.
 
-**2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM**
-- Marca: ASUS
-- Capacidad: 32GB (en dos RAM de 16GB) 
-- Tecnologia: Dddr4 
-- Velocidad: 4000mhz 
-- Modelo: CN 210039639 U
+**Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT CL34 White Intel XMP 3.0 / AMD EXPO**
+- Marca: T-CREATE
+- Capacidad: 64GB (en dos RAM de 32GB) 
+- Tecnologia: Dddr5 
+- Velocidad: 6000mhz 
 - Clocks: 16-18-18-38
-
-![todas las cosas](\carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
 
 ## 5.
 
@@ -382,16 +383,16 @@ Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 ## Total
 
 - 1 X Procesador Intel Core i5 14600K 5.3GHz Turbo Socket 1700 Raptor Lake
-- 1 X Mother ASUS ROG STRIX Z790-A GAMING WIFI LGA1700 DDR4
+- 1 X TUF GAMING Z790-PLUS WIFI D4
 - 1 X Cooler CPU Corsair iCUE H100x ELITE 240 Water Cooler
-- 2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM ARGB Mirror White CL18
+- 2 X Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT CL34 White Intel XMP 3.0 / AMD EXPO
 - 1 X Placa de Video ASUS GeForce RTX 3050 8GB GDDR6 ROG STRIX OC
 - 1 X Disco Solido SSD M.2 WD 480GB Green SN350 2400MB/s NVME PCI-Express x4
 - 1 X Disco Rigido WD 2TB BLUE 256MB SATA 6.0GB/s
 - 1 X Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular 850G
 - 1 X Gabinete Kolink Inspire X1 Vidrio Templado 1x120mm ARGB
 
-Total: [**$ 2.379.570**](https://compragamer.com.ar/armatupc?paso=11&tipo=49&cpu=15251&mother=14861&mem=14998,14998&video=13649&hd=12056,9557&fuente=11489&gab=11411&ccpu=15288)
+Total: [**$ 2.244.500**](https://compragamer.com/armatupc?tipo=49&cpu=15251&paso=11&mem=15316&mother=14812&video=13649&hd=12056,9557&fuente=11489&gab=11411&ccpu=15288)
 
 # AMD
 
