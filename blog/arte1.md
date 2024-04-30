@@ -9,7 +9,7 @@ Arte
 
 ---
 
-![Consignas](/carpeta-digital/assets/img/arteCuestionario2.webp)
+![Consignas](/carpeta-digital/assets/img/arteCuestionario2.jpg)
 
 # 1.
 
