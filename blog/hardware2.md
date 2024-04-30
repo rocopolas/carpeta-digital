@@ -92,7 +92,7 @@ Dos de estas rams conectadas en dual chanel
 
 - N.º de modelo: ST1000VX013
 - Almacenamiento: 1Tb
-- Velocidad: 6.0 Gb/s (SATA3)
+- Velocidad: 600 Mb/s (SATA3)
 
 ## 6.
 
@@ -212,7 +212,7 @@ Dos de estas rams conectadas en dual chanel
 
 - N.º de modelo: ST1000VX013
 - Almacenamiento: 1Tb
-- Velocidad: 6.0 Gb/s (SATA3)
+- Velocidad: 600 Mb/s (SATA3)
 
 ## 6.
 
@@ -341,14 +341,14 @@ Tipos de memoria:
 - Marca: WD
 - Capacidad: 480GB
 - Tecnologia: NVME
-- Velocidad: 7000MB/s
+- Velocidad: 3500 Mb/s
 - Modelo: WD4800AAWS
 
 **Disco Rigido WD 2TB BLUE 256MB SATA**
 
 - Marca: WD
 - Capacidad: 2TB
-- Tecnologia: SATA
+- Tecnologia: SATA3
 - Velocidad: 500MB/s
 - Modelo: WD2003FZEX
 
