@@ -257,8 +257,6 @@ Total: **$339.000**
 
 ## 2.
 
-
-¡
 **TUF GAMING Z790-PLUS WIFI D4**
 
 Chipset: Intel® Z790 
@@ -398,23 +396,26 @@ Total: [**$ 2.244.500**](https://compragamer.com/armatupc?tipo=49&cpu=15251&paso
 
 ## 2.
 
-**Conexiones**
+**ASUS ROG STRIX B550-F GAMING WIFI II**
 
-- 2 x USB 2.0 + 2 x USB 3.2 Gen 1
-- 2 x USB 3.2 Gen 2 (1 x Type-A + 1 x USB Type-C®)
-- 2 x Front USB 3.2 Gen 1
-- 2.5Gb Etherent
-- 2 x USB 3.2 Gen 1
-- 1 x DisplayPort
-- 2 x PCIe 4.0/3.0 X16 slots
-- PCIe 4.0 x4 & SATA mode
-- 6 x SATA 6Gb/s
+1 x DisplayPort 1.2
+1 x HDMITM port
+1 x Intel® 2.5Gb Ethernet
+1 x Intel® I225-V 2.5Gb Ethernet 
 
-32Gb/s M.2 support && 64Gb/s M.2 support
-PCIe 3.0 x4 & SATA mode
-DDR4 support
-**AMD B550 Chipset**
-BIOS: the award-winning ASUS UEFI BIOS.
+
+Rear USB:
+Total 8 ports
+2 x USB 3.2 Gen 2 ports (1 x Type-A + 1 x USB Type-C®)
+4 x USB 3.2 Gen 1 ports (4 x Type-A) 
+2 x USB 2.0 ports
+
+Front USB:
+Total 6 ports
+1 x USB 3.2 Gen 1 header supports additional 2 USB 3.2 Gen 1 ports
+2 x USB 2.0 headers support additional 4 USB 2.0 ports
+
+**BIOS:** 256 Mb Flash ROM, UEFI AMI BIOS
 
 ## 3.
 
@@ -432,15 +433,12 @@ BIOS: the award-winning ASUS UEFI BIOS.
 
 ## 4.
 
-**2 X Memoria Team DDR4 32GB (2x16GB) 4000MHz T-Force XTREEM**
-- Marca: ASUS
-- Capacidad: 32GB (en dos RAM de 16GB) 
-- Tecnologia: Dddr4 
-- Velocidad: 4000mhz 
-- Modelo: CN 210039639 U
+**Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT CL34 White Intel XMP 3.0 / AMD EXPO**
+- Marca: T-CREATE
+- Capacidad: 64GB (en dos RAM de 32GB) 
+- Tecnologia: Dddr5 
+- Velocidad: 6000mhz 
 - Clocks: 16-18-18-38
-
-![todas las cosas](\carpeta-digital\assets\img\hardware2\ram_gama_alta_intel.png)
 
 ## 5.
 
@@ -498,4 +496,4 @@ Podemos instalar por ejemplo: **iCUE LINK H170i RGB**
 - 1 X Fuente ASUS ROG STRIX 750W 80 Plus Gold Full Modular 750G
 - 1 X Gabinete Kolink Inspire X1 Vidrio Templado 1x120mm ARGB
 
-Total: [**$ 1.915.300**](https://compragamer.com.ar/armatupc?tipo=26&cpu=13388&paso=11&mother=13209&ccpu=15096&mem=15001,15001&video=13649&hd=9557,12055&fuente=11061&gab=11411)
+Total: [**$ 1.853.260**](https://compragamer.com/armatupc?paso=11&cpu=13388&tipo=26&mother=13499&ccpu=15096&mem=15001&video=13649&hd=9557,12055&fuente=11061&gab=11411)
