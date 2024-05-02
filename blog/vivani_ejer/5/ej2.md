@@ -13,6 +13,7 @@ Rocco Perez
 <!DOCTYPE html>
 <html>
     <style>
+        body{background-color: white;}
         img {
             width: 100px;
             height: 100px;
