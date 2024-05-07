@@ -335,7 +335,7 @@ Tipos de memoria:
 - Clocks: 38-38-38-78 
 - CL: 34
 
-![Detalles ram](https://prnt.sc/R1J3dIxJ5b-I)
+![Detalles ram](/carpeta-digital/assets/img/hardware2/ram_gama_alta_ddr5.webp)
 
 ## 5.
 
@@ -444,7 +444,7 @@ Total 6 ports
 - Clocks: 38-38-38-78 
 - CL: 34
 
-![Detalles ram](https://prnt.sc/R1J3dIxJ5b-I)
+![Detalles ram](/carpeta-digital/assets/img/hardware2/ram_gama_alta_ddr5.webp)
 
 ## 5.
 
