@@ -335,6 +335,8 @@ Tipos de memoria:
 - Clocks: 38-38-38-78 
 - CL: 34
 
+![Detalles ram](https://prnt.sc/R1J3dIxJ5b-I)
+
 ## 5.
 
 **Disco Solido SSD M.2 WD 480GB Green SN350 7000MB/s NVME PCI-Express x4**
@@ -440,7 +442,9 @@ Total 6 ports
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
 - Clocks: 38-38-38-78 
-- CL: 35
+- CL: 34
+
+![Detalles ram](https://prnt.sc/R1J3dIxJ5b-I)
 
 ## 5.
 
