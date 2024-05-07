@@ -333,6 +333,7 @@ Tipos de memoria:
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
 - Clocks: 16-18-18-38
+- CL: 34
 
 ## 5.
 
@@ -439,6 +440,7 @@ Total 6 ports
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
 - Clocks: 16-18-18-38
+- CL: 35
 
 ## 5.
 
