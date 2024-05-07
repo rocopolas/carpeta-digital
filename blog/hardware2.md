@@ -82,7 +82,7 @@ Rocco Pérez y Pérez Formento
 - Tecnologia: Dddr4 
 - Velocidad: 2400mhz 
 - Modelo: K4GBD4-2400
-- Clocks: 16-18-18-38
+- Clocks: 16-18-18-36
 
 Dos de estas rams conectadas en dual chanel
 
@@ -202,7 +202,7 @@ Chipset: AMD A520
 - Tecnologia: Dddr4 
 - Velocidad: 2400mhz 
 - Modelo: K4GBD4-2400
-- Clocks: 16-18-18-38
+- Clocks: 16-18-18-36
 
 Dos de estas rams conectadas en dual chanel
 
@@ -332,7 +332,7 @@ Tipos de memoria:
 - Capacidad: 64GB (en dos RAM de 32GB) 
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
-- Clocks: 16-18-18-38
+- Clocks: 38-38-38-78 
 - CL: 34
 
 ## 5.
@@ -439,7 +439,7 @@ Total 6 ports
 - Capacidad: 64GB (en dos RAM de 32GB) 
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
-- Clocks: 16-18-18-38
+- Clocks: 38-38-38-78 
 - CL: 35
 
 ## 5.
