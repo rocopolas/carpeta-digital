@@ -327,13 +327,12 @@ Tipos de memoria:
 
 ## 4.
 
-**Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT CL34 White Intel XMP 3.0 / AMD EXPO**
+**Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT White Intel XMP 3.0 / AMD EXPO**
 - Marca: T-CREATE
 - Capacidad: 64GB (en dos RAM de 32GB) 
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
 - Clocks: 38-38-38-78 
-- CL: 34
 
 ![Detalles ram](/carpeta-digital/assets/img/hardware2/ram_gama_alta_ddr5.webp)
 
@@ -436,13 +435,12 @@ Total 6 ports
 
 ## 4.
 
-**Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT CL34 White Intel XMP 3.0 / AMD EXPO**
+**Memoria Team DDR5 64GB (2x32GB) 6000Mhz T-CREATE EXPERT White Intel XMP 3.0 / AMD EXPO**
 - Marca: T-CREATE
 - Capacidad: 64GB (en dos RAM de 32GB) 
 - Tecnologia: Dddr5 
 - Velocidad: 6000mhz 
 - Clocks: 38-38-38-78 
-- CL: 34
 
 ![Detalles ram](/carpeta-digital/assets/img/hardware2/ram_gama_alta_ddr5.webp)
 
