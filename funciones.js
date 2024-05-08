@@ -49,7 +49,7 @@ function agregarblog(id){
     .then(res => res.ok ? res.text(): Promise.reject(res))
     .then(text =>{
         $main.innerHTML = new showdown.Converter().makeHtml(text)
-        console.log(id[0])
+        
         if(id[0] == "v" || id[0] == "e"){
         if(text.indexOf("```") != -1){
             const de = text.indexOf("```");
