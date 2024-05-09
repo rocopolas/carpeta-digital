@@ -19,8 +19,11 @@ planificación -> accion -> comprobar -> actuacion
 Calidad
 
 Si cliente demandar: Tiempo y alcance vos le decis coste
+
 Si cliente demandar: Tiempo y coste vos le decis alcance
+
 Si cliente demandar: Coste y alcance vos le decis tiempo
+
 Si cliente demandar: Tiempo, alcance y coste vos le decis calidad
 
 El triangulo sirve para no perder calidad.
@@ -42,4 +45,4 @@ Al iniciar un projecto la incertidumbre del coste es muy grande, pero mientras m
 Organizacion, divir tareas, rapidez y agilidad, facilitacion mediante teletrabajo.
 Aporta un marco de trabajo que te dice que hacer.
 
-<embed src="https://conectaempleo-formacion.fundaciontelefonica.com/documents/109975281/109975617/MOOC_Metodologias_Agiles_M1.pdf/f2b58d3a-0105-4864-8567-93fe106357ef?version=1.0" type="application/pdf" width="700px" height="700px">
+<embed src="/carpeta-digital/assets/pdf/MetodologiasAgiles_M1.pdf" type="application/pdf" width="700px" height="700px">
