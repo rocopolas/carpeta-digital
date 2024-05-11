@@ -16,15 +16,13 @@ El objetivo de scrum es conseguir con cada __sprint__ un __trozo de nuestro prod
 El rol llamado __equipo__ va a ser el encargado de generar lso trozos sprint traz sprint. 
 El equipo debe ser:
 
-- Pequeño (menos de 0)
+- Pequeño (menos de 9)
 - Autorganizazdo
 - Multidiscimplinares (personas que entre todos sean capaces de construir el producto)
 
 El __dueño del producto__ debe elegir lo mas importante de __la pila de producto__ para que __el equipo__ trabaje en eso.
 
-Primer paso para hacer un sprint: 
-
-Seguir __la pila del sprint__ (la porcion del la pila de producto que el __el dueño del producto__ le asigna al equipo en ese sprint).
+Primer paso para hacer un sprint es seguir __la pila del sprint__ (la porcion del la pila de producto que el __el dueño del producto__ le asigna al equipo en ese sprint).
 
 Para que una tarea entre dentro de __la pila del sprint__ debe seguir una lista de requisitos llamada __lista de difinicion de listo__.
 
