@@ -13,6 +13,8 @@ Rocco Perez
 <html>
 
 <style>
+    body{background-color: white;}
+
     table {
         border-collapse: collapse;
         width: 100%;
