@@ -15,7 +15,7 @@ El derecho del trabajo tiene por objeto regular las relaciones entre trabajadore
 
 # 2 
 
-<iframe src="/carpeta-digital/assets/mapaDerecho.html"> 
+Mapa al final de la pagina
 
 # 3 
 
@@ -40,3 +40,5 @@ La persona física es el ser humano individualmente considerado. La persona jur�
 # 8 
 
 Según la ley, para que se configure una relación de trabajo subordinado, el trabajador debe estar sometido a tres tipos de subordinación respecto del empleador: jurídica (cumplir órdenes), técnica (seguir instrucciones) y económica (dependencia salarial)
+
+<iframe src="/carpeta-digital/assets/mapaDerecho.html" width="700" height="700"> 
