@@ -15,7 +15,7 @@ El derecho del trabajo tiene por objeto regular las relaciones entre trabajadore
 
 # 2 
 
-<iframe src="/carpeta-digital/assets/mapaDerecho.html" width="700"> 
+<iframe src="/carpeta-digital/assets/mapaDerecho.html"> 
 
 # 3 
 
