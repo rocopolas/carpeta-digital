@@ -35,7 +35,7 @@ nose
 
 # 7 
 
-La persona física es el ser humano individualmente considerado. La persona jurídica es un ente ficticio, creado por ley, que tiene derechos y obligaciones, como las sociedades comerciales o las asociaciones ???????????? nose
+La persona física es el ser humano individualmente considerado. La persona jurídica es un ente ficticio, creado por ley, que tiene derechos y obligaciones, como las sociedades comerciales o las asociaciones
 
 # 8 
 
