@@ -9,21 +9,21 @@ EN LA COMPUTADORA QUE SE VA A USAR COMO **SERVER**, OSEA LA QUE TIENE EL DISCO Q
 
 Iniciamos la PC desde el pendrive
 
-![](https://img001.prntscr.com/file/img001/EtsinPI3Qv2uZdfe7ErgXg.jpeg)
-
 Entramos en "DRBL Live"
 
-![](https://img001.prntscr.com/file/img001/XPK9RhS0S2S7MOvVNI6mLg.jpeg)
+![](https://img001.prntscr.com/file/img001/EtsinPI3Qv2uZdfe7ErgXg.jpeg)
 
 Colocamos el idioma español
 
-![](https://img001.prntscr.com/file/img001/fZv3mC6bQlacVd-VcxdF2w.jpeg)
+![](https://img001.prntscr.com/file/img001/XPK9RhS0S2S7MOvVNI6mLg.jpeg)
 
 Colocamos lo marcado en rojo
 
-![](https://img001.prntscr.com/file/img001/PchcCf3zRJaiDZA3BKRq6Q.jpeg)
+![](https://img001.prntscr.com/file/img001/fZv3mC6bQlacVd-VcxdF2w.jpeg)
 
 Tocamos enter
+
+![](https://img001.prntscr.com/file/img001/PchcCf3zRJaiDZA3BKRq6Q.jpeg)
 
 se va a iniciar una distribucion de linux (Debian)
 
