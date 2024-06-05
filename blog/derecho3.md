@@ -31,7 +31,10 @@ Según la ley de contrato de trabajo, el trabajador debe ser una persona física
 
 # 6
 
-nose
+son:
+
+- el trabajador
+- el empleador
 
 # 7 
 
