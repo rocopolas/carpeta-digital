@@ -18,7 +18,7 @@ Tanto la alegoría como la metáfora significan una cosa expresando otra diferen
 - "Ajedrez" de Jorge Luis Borges: Un poema que utiliza el ajedrez como una alegoría de la vida y el destino. Los jugadores y las piezas representan fuerzas mayores que controlan el destino de los individuos.
 - "Coplas por la muerte de su padre" de Jorge Manrique: Utiliza la alegoría del río para describir la vida y su inevitable conclusión en la muerte.
 
-### Resumen del apartado: "INTRODUCCIÓN A 'REBELIÓN EN LA GRANJA', DE GEORGE ORWELL"
+# Resumen del apartado: "INTRODUCCIÓN A 'REBELIÓN EN LA GRANJA', DE GEORGE ORWELL"
 
 1. **Contexto histórico y literario**:
    - **Orwell y su obra**: Se menciona la importancia de George Orwell y el contexto en el que escribió "Rebelión en la granja", resaltando la situación política y social de la época.
