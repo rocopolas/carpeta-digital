@@ -18,4 +18,44 @@ Tanto la alegoría como la metáfora significan una cosa expresando otra diferen
 - "Ajedrez" de Jorge Luis Borges: Un poema que utiliza el ajedrez como una alegoría de la vida y el destino. Los jugadores y las piezas representan fuerzas mayores que controlan el destino de los individuos.
 - "Coplas por la muerte de su padre" de Jorge Manrique: Utiliza la alegoría del río para describir la vida y su inevitable conclusión en la muerte.
 
+### Resumen del apartado: "INTRODUCCIÓN A 'REBELIÓN EN LA GRANJA', DE GEORGE ORWELL"
+
+1. **Contexto histórico y literario**:
+   - **Orwell y su obra**: Se menciona la importancia de George Orwell y el contexto en el que escribió "Rebelión en la granja", resaltando la situación política y social de la época.
+   - **Alusión a la URSS**: La novela es una alegoría de la Revolución Rusa y la posterior dictadura de Stalin en la Unión Soviética.
+
+2. **Temática principal**:
+   - **Crítica al totalitarismo**: La obra expone los peligros del totalitarismo y la corrupción del poder.
+   - **Representación de personajes**: Los personajes animales representan figuras históricas y conceptos políticos, como los cerdos que simbolizan a los líderes corruptos.
+
+3. **Estructura de la novela**:
+   - **Desarrollo de la trama**: La introducción detalla cómo los animales de la granja se rebelan contra sus opresores humanos, buscando una sociedad más justa.
+   - **Transformación y traición**: A medida que la historia avanza, los ideales de la rebelión son traicionados, mostrando cómo los nuevos líderes adoptan los mismos vicios de los antiguos.
+
+4. **Significado y relevancia**:
+   - **Reflexión sobre el poder**: La obra invita a reflexionar sobre la naturaleza del poder y cómo puede corromper a quienes lo ejercen.
+   - **Vigencia**: A pesar de estar ambientada en un contexto específico, la novela sigue siendo relevante por sus enseñanzas universales sobre la política y la sociedad.
+
+### Markmap del contenido
+
+```
+INTRODUCCIÓN A "REBELIÓN EN LA GRANJA", DE GEORGE ORWELL
+├── Contexto histórico y literario
+│   ├── Importancia de George Orwell
+│   ├── Situación política y social
+│   └── Alegoría de la Revolución Rusa y dictadura de Stalin
+├── Temática principal
+│   ├── Crítica al totalitarismo
+│   ├── Corrupción del poder
+│   └── Personajes como figuras históricas
+├── Estructura de la novela
+│   ├── Rebelión de los animales
+│   ├── Búsqueda de justicia
+│   └── Traición de los ideales
+├── Significado y relevancia
+│   ├── Reflexión sobre el poder
+│   ├── Naturaleza corruptora del poder
+│   └── Vigencia de las enseñanzas
+```
+
 <iframe src="/carpeta-digital/assets/mapaLiteratura.html" width="700" height="700"> 
