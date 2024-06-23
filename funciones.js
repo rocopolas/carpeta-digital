@@ -44,7 +44,7 @@ function agregarblog(id){
 
     const d = document,
     $main = d.querySelector("main");
-
+ 
     fetch(`/blog/${id}`)
     .then(res => res.ok ? res.text(): Promise.reject(res))
     .then(text =>{
