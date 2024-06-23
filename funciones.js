@@ -45,7 +45,7 @@ function agregarblog(id){
     const d = document,
     $main = d.querySelector("main");
 
-    fetch(`/carpeta-digital/blog/${id}`)
+    fetch(`/blog/${id}`)
     .then(res => res.ok ? res.text(): Promise.reject(res))
     .then(text =>{
         $main.innerHTML = new showdown.Converter().makeHtml(text)
