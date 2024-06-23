@@ -1,6 +1,6 @@
     @font-face{
         font-family: inconsolata;
-        src: url(/carpeta-digital/assets/inconsolata-webfont.woff2)
+        src: url(/assets/inconsolata-webfont.woff2)
     }
 
     @media screen and (max-width: 600px){
