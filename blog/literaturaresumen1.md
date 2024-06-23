@@ -58,4 +58,4 @@ INTRODUCCIÓN A "REBELIÓN EN LA GRANJA", DE GEORGE ORWELL
 │   └── Vigencia de las enseñanzas
 ```
 
-<iframe src="/carpeta-digital/assets/mapaLiteratura.html" width="700" height="700"> 
+<iframe src=" /assets/mapaLiteratura.html" width="700" height="700"> 

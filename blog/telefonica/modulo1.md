@@ -45,4 +45,4 @@ Al iniciar un projecto la incertidumbre del coste es muy grande, pero mientras m
 Organizacion, divir tareas, rapidez y agilidad, facilitacion mediante teletrabajo.
 Aporta un marco de trabajo que te dice que hacer.
 
-<embed src="/carpeta-digital/assets/pdf/MetodologiasAgiles_M1.pdf" type="application/pdf" width="700px" height="700px">
+<embed src=" /assets/pdf/MetodologiasAgiles_M1.pdf" type="application/pdf" width="700px" height="700px">

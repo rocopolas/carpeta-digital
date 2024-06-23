@@ -44,4 +44,4 @@ La persona física es el ser humano individualmente considerado. La persona jur�
 
 Según la ley, para que se configure una relación de trabajo subordinado, el trabajador debe estar sometido a tres tipos de subordinación respecto del empleador: jurídica (cumplir órdenes), técnica (seguir instrucciones) y económica (dependencia salarial)
 
-<iframe src="/carpeta-digital/assets/mapaDerecho.html" width="700" height="700"> 
+<iframe src=" /assets/mapaDerecho.html" width="700" height="700"> 

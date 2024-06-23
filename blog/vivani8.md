@@ -69,7 +69,7 @@ Rocco Perez
 
     <table>
         <tr>
-            <td rowspan="6"><img src="/carpeta-digital/assets/img/chouna.jpg"></td>
+            <td rowspan="6"><img src=" /assets/img/chouna.jpg"></td>
         </tr>
         <tr >
             <th>Nombre y apellido</th>

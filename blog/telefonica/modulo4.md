@@ -51,4 +51,4 @@ Implica tenener entornos de:
 
 Esta implementacion tiene que agregar valor
 
-<embed src="/carpeta-digital/assets/pdf/MetodologiasAgiles_M4.pdf" type="application/pdf" width="700px" height="700px">
+<embed src=" /assets/pdf/MetodologiasAgiles_M4.pdf" type="application/pdf" width="700px" height="700px">

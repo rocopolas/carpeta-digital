@@ -30,7 +30,7 @@ Rocco Perez
         }
     </style>
     <body>
-        <img style="float:left" src="/carpeta-digital/assets/img/perro.jpg">                <!-- Archivo -->
+        <img style="float:left" src=" /assets/img/perro.jpg">                <!-- Archivo -->
         <img style="float:right" src="https://content.nationalgeographic.com.es/medio/2023/11/29/golden-retriever-corriendo_7a50f15e_231129131211_800x800.jpg">                <!-- URL -->
         <img class="centrado" src="https://www.mascotasanasydivertidas.com/wp-content/uploads/sites/12/2020/11/perro.png?w=442" alt="perro" title="exactamente un perro"><br><!-- URL -->
         <div>

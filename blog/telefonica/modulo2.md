@@ -32,6 +32,6 @@ __12 principios:__
 
     <img src="https://img001.prntscr.com/file/img001/ZMJgREKZS1OzSrG1msknBg.jpeg">
 
-- A intervalos regulares refelxionar sobre como ser mas efectivo para mejorar, [ciclo de Deming](https://rocopolas.github.io/carpeta-digital/?trabajo=telefonica/modulo1.md)
+- A intervalos regulares refelxionar sobre como ser mas efectivo para mejorar, [ciclo de Deming](https://rocopolas.github.io /?trabajo=telefonica/modulo1.md)
 
-<embed src="/carpeta-digital/assets/pdf/MetodologiasAgiles_M2.pdf" type="application/pdf" width="700px" height="700px">
+<embed src=" /assets/pdf/MetodologiasAgiles_M2.pdf" type="application/pdf" width="700px" height="700px">

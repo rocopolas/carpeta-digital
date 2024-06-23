@@ -41,7 +41,7 @@ Rocco Pérez y Pérez Formento
 
 ## 1. 
 
-![el plano de la casa de chouna](/carpeta-digital/assets/img/casachouna.webp)
+![el plano de la casa de chouna]( /assets/img/casachouna.webp)
 
 - **Amarillo:** Enchufe.
 - **Naranja:** Luces.	
@@ -97,7 +97,7 @@ La diferencia es que el tablero general es la seguridad, en este caso, de toda l
 
 - __Fase:__ Negro, rojo o azul oscuro
 
-![Colores de los cables tabla](/carpeta-digital/assets/img/colores_cables.webp)
+![Colores de los cables tabla]( /assets/img/colores_cables.webp)
 
 ## 10.
 
@@ -115,37 +115,37 @@ La distancia desde el suelo, debe ser de 20 a 30 cm aproximadamente para los enc
 
 Precio: 37.694$
 
-![límit 2x25A](/carpeta-digital/assets/img/hardware1/cosaselectricas(10).jpg)
+![límit 2x25A]( /assets/img/hardware1/cosaselectricas(10).jpg)
 
 #### Conductor : Cable Unipolar Trefilcon 100 Metros 2,5mm. SICA
 
 Precio: 66.891$
 
-![Cable](/carpeta-digital/assets/img/hardware1/cosaselectricas(2).jpg)
+![Cable]( /assets/img/hardware1/cosaselectricas(2).jpg)
 
 #### Canaletas: Cable Canal Autoadhesivo Taad 20x10 X 10 Mts
 
 Precio : 4.555$
 
-![Canaletas](/carpeta-digital/assets/img/hardware1/cosaselectricas(8).jpg)
+![Canaletas]( /assets/img/hardware1/cosaselectricas(8).jpg)
 
 #### Tomacorriente: Life Arm. Toma doble BP x 15 U
 
 Precio : 30.224$
 
-![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(9).jpg)
+![Tomacorriente]( /assets/img/hardware1/cosaselectricas(9).jpg)
 
 #### Tecla: Life Arm 2P BP x 15U
 
 Precio: 21.840$
 
-![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(11).jpg)
+![Tomacorriente]( /assets/img/hardware1/cosaselectricas(11).jpg)
 
 #### Llave-interruptor Termica Bipolar
 #### Disyuntor Diferencial 
 
 Precio: $7.999, $20.213
 
-![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(5).jpg)
+![Tomacorriente]( /assets/img/hardware1/cosaselectricas(5).jpg)
 
-![Tomacorriente](/carpeta-digital/assets/img/hardware1/cosaselectricas(1).jpg)
+![Tomacorriente]( /assets/img/hardware1/cosaselectricas(1).jpg)

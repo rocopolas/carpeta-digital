@@ -40,4 +40,4 @@ Al ya haber pasado por todos __los sprint__ y conseguido tener __el producto__ f
 
 <img src="https://img001.prntscr.com/file/img001/n1xRIbHxSN6C1ICB_wIjcg.jpeg">
 
-<embed src="/carpeta-digital/assets/pdf/MetodologiasAgiles_M3.pdf" type="application/pdf" width="700px" height="700px">
+<embed src=" /assets/pdf/MetodologiasAgiles_M3.pdf" type="application/pdf" width="700px" height="700px">

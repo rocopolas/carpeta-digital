@@ -127,7 +127,7 @@ int main(void) {
 }
 ```
 
-[Descargar archivo .c](/carpeta-digital/assets/programacion/act1.c)
+[Descargar archivo .c]( /assets/programacion/act1.c)
 
 [Diagrama](https://drive.google.com/file/d/1UZAbKPo_AOeSrRxZ9muBza2f7n0TfzR-/view?usp=sharing)
 

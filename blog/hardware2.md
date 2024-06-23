@@ -334,7 +334,7 @@ Tipos de memoria:
 - Velocidad: 6000mhz 
 - Clocks: 38-38-38-78 
 
-![Detalles ram](/carpeta-digital/assets/img/hardware2/ram_gama_alta_ddr5.webp)
+![Detalles ram]( /assets/img/hardware2/ram_gama_alta_ddr5.webp)
 
 ## 5.
 
@@ -442,7 +442,7 @@ Total 6 ports
 - Velocidad: 6000mhz 
 - Clocks: 38-38-38-78 
 
-![Detalles ram](/carpeta-digital/assets/img/hardware2/ram_gama_alta_ddr5.webp)
+![Detalles ram]( /assets/img/hardware2/ram_gama_alta_ddr5.webp)
 
 ## 5.
 

@@ -11,12 +11,12 @@ Rocco Perez
 
 ## Links:
 
-- [Laptop conectando y configurando 1841](/carpeta-digital/assets/cisco/laptopConfigurando1841.pkt)
-- [Laptop a remoto (Router 1841 conectado serie a otro 1841)](/carpeta-digital/assets/cisco/localARemoto.pkt)
-- [Redes de paises](/carpeta-digital/assets/cisco/redesPaises.pkt)
-- [Multiples caminos a un mismo destino](/carpeta-digital/assets/cisco/multiplesCaminos.pkt)
-- [Protocolo RIP(gang)](/carpeta-digital/assets/cisco/protocoloRIP.pkt)
-- [DHCP server](/carpeta-digital/assets/cisco/DHCPserver.pkt)
-- [Red multiservicio centralizada](/carpeta-digital/assets/cisco/RedMultiservicioCentralizada.pkt)
-- [vlan con switch](/carpeta-digital/assets/cisco/vlan.pkt)
+- [Laptop conectando y configurando 1841]( /assets/cisco/laptopConfigurando1841.pkt)
+- [Laptop a remoto (Router 1841 conectado serie a otro 1841)]( /assets/cisco/localARemoto.pkt)
+- [Redes de paises]( /assets/cisco/redesPaises.pkt)
+- [Multiples caminos a un mismo destino]( /assets/cisco/multiplesCaminos.pkt)
+- [Protocolo RIP(gang)]( /assets/cisco/protocoloRIP.pkt)
+- [DHCP server]( /assets/cisco/DHCPserver.pkt)
+- [Red multiservicio centralizada]( /assets/cisco/RedMultiservicioCentralizada.pkt)
+- [vlan con switch]( /assets/cisco/vlan.pkt)
 
