@@ -11,7 +11,10 @@ Rocco Perez
 
 ```
 <html>
-    <style>body{background-color: white;}</style>
+    <style>
+        body{background-color: white;}
+        img{width: 200px;}
+    </style>
     <body>
         <a href=
         "mailto:
@@ -24,7 +27,7 @@ Rocco Perez
 
         <a href="tel:1150001157">Telefono aleatorio</a>
         <br>
-        <a href="https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&h=1067">Imagen</a>
+        <a href="https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&h=1067"><img src="https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&h=1067"></a>
     </body>
 </html>
 ```
